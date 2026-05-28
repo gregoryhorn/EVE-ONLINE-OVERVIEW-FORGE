@@ -17,7 +17,7 @@ Use this checklist before pushing the repository public.
 
 ```powershell
 git status --short
-git add .gitignore MANIFEST.in PUBLISHING.md pyproject.toml requirements.txt README.md GUI-PLAN.md GAP-CHECK-PLAN.md AGENTS.md Overview-research-report.md Examples/standard_complete_overview.yaml docs scripts src tests
+git add .gitignore MANIFEST.in PUBLISHING.md pyproject.toml requirements.txt README.md AGENTS.md Examples/standard_complete_overview.yaml docs scripts src tests
 git status --short
 git commit -m "Prepare repository for GitHub publishing"
 git branch -M main

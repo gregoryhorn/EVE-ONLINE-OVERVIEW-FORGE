@@ -1,7 +1,6 @@
 # Repository Instructions
 
 - Prefer correctness, small diffs, and verified behavior.
-- Treat `Overview-research-report.md` as the primary technical/product reference.
 - Keep the core app offline/local. Do not make ESI required for Phase 1 behavior.
 - Preserve unknown EVE overview YAML data whenever practical. Do not silently discard unknown keys.
 - Preserve source top-level YAML key order during roundtrip when the document came from YAML.

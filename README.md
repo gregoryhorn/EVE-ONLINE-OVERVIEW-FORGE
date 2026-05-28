@@ -7,8 +7,6 @@ The project has two separate workflows:
 - Overview YAML editing, validation, import, export, and round-trip preservation.
 - Local profile/layout backup and clone planning for opaque files such as `core_user_*.dat`, `core_char_*.dat`, and `prefs.ini`.
 
-`Overview-research-report.md` is the primary product and technical reference for this repository.
-
 ![Profiles screen](docs/screenshots/profiles.png)
 
 ## Run The App GUI
@@ -107,12 +105,11 @@ Any future write operation that targets an EVE folder or profile folder must sup
 
 Core foundation is largely complete. The remaining major work is GUI-facing:
 
-- Use `GAP-CHECK-PLAN.md` as the next correctness checklist before additional GUI polish.
-- Continue the GUI correctness pass from `GAP-CHECK-PLAN.md`: next up is full validation panel workflow and end-to-end browser smoke testing across imported community samples.
+- Continue GUI correctness work with the automated browser QA script and targeted manual checks.
 - Add richer browser QA and visual polish for the Profiles and Import / Export screens.
 - Extend the Import / Export screen with snapshots, deploy confirmation, and richer validation.
 - Wire a full validation panel and bottom status bar to real validation/backup state.
-- Polish existing GUI screens against `GUI Example images/`.
+- Polish existing GUI screens against the bundled screenshots and current app behavior.
 - Run browser smoke tests once the GUI workflows are connected.
 
 ## Phase 1 Scope
@@ -187,7 +184,6 @@ The GUI exists as a local FastAPI/plain HTML app, with several editor screens al
 - Common state labels used by the Presets, Appearance, and preview sample rows now match the in-game Appearance state label text shown by EVE. Numeric IDs remain preserved from the YAML.
 - Preview blink rendering now separates foreground/color-tag blink from background blink so color-tag-only blink does not make every row pulse.
 - Public/release packaging intentionally excludes downloaded third-party/community overview packs.
-- `GAP-CHECK-PLAN.md` tracks the highest-priority correctness gaps found from the research references and community samples, with remediation steps, likely files, automated/browser test plans, and acceptance criteria for each gap.
 - Preview rows include resolved appearance metadata for flag state, background state, mapped colors, and blink flags.
 - The preview is an editing aid built from local sample entities. It is not a live EVE client simulator and does not read or modify profile files.
 - Clone planning is dry-run only. By default it maps matching `core_user`/`core_char` identifiers one-to-one. Use `--copy-first-to-all` only when deliberately cloning one source file to every target file of the same type.
@@ -457,6 +453,5 @@ Examples/
   standard_complete_overview.yaml
 scripts/
 tests/
-GUI-PLAN.md           # Full GUI design document (9 screens, API surface, build phases)
 ```
 
