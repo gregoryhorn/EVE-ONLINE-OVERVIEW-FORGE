@@ -1,0 +1,211 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Overview Forge</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&family=Share+Tech+Mono&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/static/app.css?v=profile-compare-20260528" />
+</head>
+<body>
+
+<!-- TOP BAR -->
+<header class="topbar">
+  <div class="topbar-brand">
+    <svg class="brand-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+      <circle cx="12" cy="12" r="3"/><path d="M12 1v4M12 19v4M4.22 4.22l2.83 2.83M16.95 16.95l2.83 2.83M1 12h4M19 12h4M4.22 19.78l2.83-2.83M16.95 7.05l2.83-2.83"/>
+    </svg>
+    <span class="brand-name">OVERVIEW FORGE</span>
+    <span class="brand-version">v1.0</span>
+  </div>
+  <div class="topbar-actions">
+    <button class="btn-action" id="btn-import" title="Import a YAML or JSON overview file">
+      <svg viewBox="0 0 20 20" fill="currentColor"><path d="M10 2a1 1 0 011 1v9.586l2.293-2.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L9 12.586V3a1 1 0 011-1z"/><path d="M3 17a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z"/></svg>
+      Import YAML
+    </button>
+    <button class="btn-action" id="btn-validate" title="Run validation on current overview">
+      <svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+      Validate
+    </button>
+    <button class="btn-action" id="btn-export" title="Export to EVE YAML">
+      <svg viewBox="0 0 20 20" fill="currentColor"><path d="M10 18a1 1 0 01-1-1V7.414L6.707 9.707a1 1 0 01-1.414-1.414l4-4a1 1 0 011.414 0l4 4a1 1 0 01-1.414 1.414L11 7.414V17a1 1 0 01-1 1z"/><path d="M3 17a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z"/></svg>
+      Export
+    </button>
+    <button class="btn-action btn-action--warning" id="btn-backup" title="Backup current profile files">
+      <svg viewBox="0 0 20 20" fill="currentColor"><path d="M4 4a2 2 0 00-2 2v1h16V6a2 2 0 00-2-2H4zM2 9v7a2 2 0 002 2h12a2 2 0 002-2V9H2zm9 3a1 1 0 11-2 0 1 1 0 012 0z"/></svg>
+      Backup
+    </button>
+    <button class="btn-action" id="btn-help" title="Open help">
+      <svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M18 10A8 8 0 112 10a8 8 0 0116 0zM9 7a1 1 0 112 0c0 .414-.18.72-.468.994-.18.17-.378.319-.638.513l-.171.128C8.961 8.21 8.25 8.79 8.25 10.25a.75.75 0 001.5 0c0-.69.245-.915.872-1.386l.213-.16C11.51 8.197 12.5 7.456 12.5 7A2.5 2.5 0 107.5 7a.75.75 0 001.5 0zm1 7.25a1 1 0 100-2 1 1 0 000 2z" clip-rule="evenodd"/></svg>
+      Help
+    </button>
+    <button class="btn-action" id="btn-about" title="About Overview Forge">
+      <svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm.75-11.25a.75.75 0 00-1.5 0v.5a.75.75 0 001.5 0v-.5zM9 9.75A.75.75 0 019.75 9h.5a.75.75 0 01.75.75v3.5h.25a.75.75 0 010 1.5h-2.5a.75.75 0 010-1.5H9.5v-2.75a.75.75 0 01-.5-.75z" clip-rule="evenodd"/></svg>
+      About
+    </button>
+  </div>
+</header>
+
+<!-- MAIN LAYOUT -->
+<div class="layout">
+
+  <!-- LEFT NAV -->
+  <nav class="sidenav">
+    <ul class="nav-list">
+      <li class="nav-item active" data-screen="dashboard">
+        <svg viewBox="0 0 20 20" fill="currentColor"><path d="M2 11a1 1 0 011-1h4a1 1 0 011 1v6a1 1 0 01-1 1H3a1 1 0 01-1-1v-6zm6-4a1 1 0 011-1h4a1 1 0 011 1v10a1 1 0 01-1 1H9a1 1 0 01-1-1V7zm6-3a1 1 0 011-1h2a1 1 0 011 1v13a1 1 0 01-1 1h-2a1 1 0 01-1-1V4z"/></svg>
+        <span>Dashboard</span>
+      </li>
+      <li class="nav-item" data-screen="tabs">
+        <svg viewBox="0 0 20 20" fill="currentColor"><path d="M5 3a2 2 0 00-2 2v2a2 2 0 002 2h2a2 2 0 002-2V5a2 2 0 00-2-2H5zM5 11a2 2 0 00-2 2v2a2 2 0 002 2h2a2 2 0 002-2v-2a2 2 0 00-2-2H5zM11 5a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2V5zM14 11a1 1 0 011 1v1h1a1 1 0 110 2h-1v1a1 1 0 11-2 0v-1h-1a1 1 0 110-2h1v-1a1 1 0 011-1z"/></svg>
+        <span>Tabs</span>
+      </li>
+      <li class="nav-item" data-screen="presets">
+        <svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M3 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm0 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm0 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm0 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"/></svg>
+        <span>Presets</span>
+      </li>
+      <li class="nav-item" data-screen="columns">
+        <svg viewBox="0 0 20 20" fill="currentColor"><path d="M3 12v3c0 1.657 3.134 3 7 3s7-1.343 7-3v-3c0 1.657-3.134 3-7 3s-7-1.343-7-3z"/><path d="M3 7v3c0 1.657 3.134 3 7 3s7-1.343 7-3V7c0 1.657-3.134 3-7 3S3 8.657 3 7z"/><path d="M17 5c0 1.657-3.134 3-7 3S3 6.657 3 5s3.134-3 7-3 7 1.343 7 3z"/></svg>
+        <span>Columns</span>
+      </li>
+      <li class="nav-item" data-screen="appearance">
+        <svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M4 2a2 2 0 00-2 2v11a3 3 0 106 0V4a2 2 0 00-2-2H4zm1 14a1 1 0 100-2 1 1 0 000 2zm5-1.757l4.9-4.9a2 2 0 000-2.828L13.485 5.1a2 2 0 00-2.828 0L10 5.757v8.486zM16 18H9.071l6-6H16a2 2 0 012 2v2a2 2 0 01-2 2z" clip-rule="evenodd"/></svg>
+        <span>Appearance</span>
+      </li>
+      <li class="nav-item" data-screen="importexport">
+        <svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M3 17a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm3.293-7.707a1 1 0 011.414 0L9 10.586V3a1 1 0 112 0v7.586l1.293-1.293a1 1 0 111.414 1.414l-3 3a1 1 0 01-1.414 0l-3-3a1 1 0 010-1.414z" clip-rule="evenodd"/></svg>
+        <span>Import / Export</span>
+      </li>
+      <li class="nav-item nav-item--divider" data-screen="profiles">
+        <svg viewBox="0 0 20 20" fill="currentColor"><path d="M9 6a3 3 0 11-6 0 3 3 0 016 0zM17 6a3 3 0 11-6 0 3 3 0 016 0zM12.93 17c.046-.327.07-.66.07-1a6.97 6.97 0 00-1.5-4.33A5 5 0 0119 16v1h-6.07zM6 11a5 5 0 015 5v1H1v-1a5 5 0 015-5z"/></svg>
+        <span>Profiles</span>
+      </li>
+      <li class="nav-item" data-screen="advanced">
+        <svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M11.49 3.17c-.38-1.56-2.6-1.56-2.98 0a1.53 1.53 0 01-2.286.948c-1.372-.836-2.942.734-2.106 2.106.54.886.061 2.042-.947 2.287-1.561.379-1.561 2.6 0 2.978a1.53 1.53 0 01.947 2.287c-.836 1.372.734 2.942 2.106 2.106a1.53 1.53 0 012.287.947c.379 1.561 2.6 1.561 2.978 0a1.53 1.53 0 012.287-.947c1.372.836 2.942-.734 2.106-2.106a1.53 1.53 0 01.947-2.287c1.561-.379 1.561-2.6 0-2.978a1.53 1.53 0 01-.947-2.287c.836-1.372-.734-2.942-2.106-2.106a1.53 1.53 0 01-2.287-.947zM10 13a3 3 0 100-6 3 3 0 000 6z" clip-rule="evenodd"/></svg>
+        <span>Advanced</span>
+      </li>
+    </ul>
+
+    <div class="nav-footer">
+      <div class="nav-footer-label">Active File</div>
+      <div class="nav-footer-file" id="active-file-name">No file loaded</div>
+    </div>
+  </nav>
+
+  <!-- CENTER + RIGHT WORKSPACE -->
+  <main class="workspace">
+    <div class="center-panel" id="center-panel">
+      <!-- Screen content injected here -->
+    </div>
+    <div class="right-panel" id="right-panel">
+      <!-- Live preview injected here -->
+    </div>
+  </main>
+
+</div>
+
+<!-- BOTTOM STATUS BAR -->
+<footer class="statusbar">
+  <div class="statusbar-left">
+    <span class="status-badge status-badge--warn" id="status-warnings" style="display:none">
+      <svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M8.257 3.099c.765-1.36 2.722-1.36 3.486 0l5.58 9.92c.75 1.334-.213 2.98-1.742 2.98H4.42c-1.53 0-2.493-1.646-1.743-2.98l5.58-9.92zM11 13a1 1 0 11-2 0 1 1 0 012 0zm-1-8a1 1 0 00-1 1v3a1 1 0 002 0V6a1 1 0 00-1-1z" clip-rule="evenodd"/></svg>
+      <span id="status-warnings-text">0 warnings</span>
+    </span>
+    <span class="status-badge status-badge--error" id="status-errors" style="display:none">
+      <svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" clip-rule="evenodd"/></svg>
+      <span id="status-errors-text">0 errors</span>
+    </span>
+    <span class="status-hint" id="status-hint">Load an overview YAML file to get started</span>
+  </div>
+  <div class="statusbar-right">
+    <span class="status-meta" id="status-meta"></span>
+  </div>
+</footer>
+
+<!-- IMPORT FILE DIALOG (hidden) -->
+<div class="modal-backdrop" id="modal-import" style="display:none">
+  <div class="modal">
+    <div class="modal-header">
+      <span>Import Overview File</span>
+      <button class="modal-close" id="modal-import-close">&times;</button>
+    </div>
+    <div class="modal-body">
+      <label class="field-label">File path</label>
+      <input class="field-input" type="text" id="import-path-input" placeholder="C:\Users\...\Documents\EVE\Overview\mypack.yaml" />
+      <div class="modal-hint">Or browse for a local YAML/JSON file</div>
+      <input class="field-input" type="file" id="import-file-input" accept=".yaml,.yml,.json" />
+      <div class="modal-hint">Accepts .yaml or .json overview files</div>
+    </div>
+    <div class="modal-footer">
+      <button class="btn-secondary" id="modal-import-cancel">Cancel</button>
+      <button class="btn-primary" id="modal-import-confirm">Load File</button>
+    </div>
+  </div>
+</div>
+
+<!-- HELP DIALOG -->
+<div class="modal-backdrop" id="modal-help" style="display:none">
+  <div class="modal modal--wide">
+    <div class="modal-header">
+      <span>Overview Forge Help</span>
+      <button class="modal-close" data-close-modal="modal-help">&times;</button>
+    </div>
+    <div class="modal-body help-grid">
+      <section>
+        <h3>Overview Editing</h3>
+        <p>Import an EVE overview YAML file, edit tabs and presets, validate, then export a new YAML file. Import the exported YAML manually inside the EVE client.</p>
+      </section>
+      <section>
+        <h3>Tabs And Presets</h3>
+        <p>Tabs choose the active overview preset and bracket preset. Presets control visible groups and state filters. Appearance and columns are global.</p>
+      </section>
+      <section>
+        <h3>Profiles</h3>
+        <p>Profile tools work with local opaque EVE files. Review the dry-run plan, create a backup, close EVE, then execute only when the exact target files are correct.</p>
+      </section>
+      <section>
+        <h3>Safety Rules</h3>
+        <p>The app does not automate EVE, parse .dat internals, inject into the client, or overwrite exports without generating a unique filename.</p>
+      </section>
+    </div>
+    <div class="modal-footer">
+      <button class="btn-primary" data-close-modal="modal-help">Close</button>
+    </div>
+  </div>
+</div>
+
+<!-- ABOUT DIALOG -->
+<div class="modal-backdrop" id="modal-about" style="display:none">
+  <div class="modal">
+    <div class="modal-header">
+      <span>About Overview Forge</span>
+      <button class="modal-close" data-close-modal="modal-about">&times;</button>
+    </div>
+    <div class="modal-body about-panel">
+      <div class="about-title">Overview Forge</div>
+      <p>Local EVE Online overview editor, validator, export helper, and safe profile file manager.</p>
+      <p>If you like this app, you can donate ISK in game to <strong>Mizz Betty</strong>.</p>
+    </div>
+    <div class="modal-footer">
+      <button class="btn-primary" data-close-modal="modal-about">Close</button>
+    </div>
+  </div>
+</div>
+
+<!-- TOAST NOTIFICATION -->
+<div class="toast" id="toast" style="display:none"></div>
+
+<script src="/static/screens/dashboard.js?v=standard-template-20260528"></script>
+<script src="/static/screens/tabs.js?v=blink-split-20260528"></script>
+<script src="/static/screens/presets.js?v=blink-split-20260528"></script>
+<script src="/static/screens/types.js?v=blink-split-20260528"></script>
+<script src="/static/screens/appearance.js?v=blink-split-20260528"></script>
+<script src="/static/screens/columns.js?v=blink-split-20260528"></script>
+<script src="/static/screens/brackets.js?v=blink-split-20260528"></script>
+<script src="/static/screens/import_export.js?v=portable-release-20260528"></script>
+<script src="/static/screens/profiles.js?v=profile-visual-polish-20260528"></script>
+<script src="/static/app.js?v=help-about-20260528"></script>
+</body>
+</html>
+

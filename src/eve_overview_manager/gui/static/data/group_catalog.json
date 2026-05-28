@@ -1,0 +1,5354 @@
+{
+  "schemaVersion": "overview-group-catalog/v1",
+  "source": "Generated from bundled community samples plus common SDE groups",
+  "groupCount": 667,
+  "categories": [
+    "Ships",
+    "Drones & Fighters",
+    "NPCs",
+    "Structures",
+    "Deployables",
+    "Celestials",
+    "Wrecks & Containers",
+    "FW / Insurgency",
+    "Other"
+  ],
+  "groups": [
+    {
+      "id": "amarr_navy_roaming_battleship_1402",
+      "gids": [
+        1402
+      ],
+      "label": "Amarr Navy Roaming Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "amarr_navy_roaming_cruiser_1411",
+      "gids": [
+        1411
+      ],
+      "label": "Amarr Navy Roaming Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "amarr_navy_roaming_frigate_1414",
+      "gids": [
+        1414
+      ],
+      "label": "Amarr Navy Roaming Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "amarr_navy_roaming_logistics_1413",
+      "gids": [
+        1413
+      ],
+      "label": "Amarr Navy Roaming Logistics",
+      "cat": "Ships"
+    },
+    {
+      "id": "assault_frigate_324",
+      "gids": [
+        324
+      ],
+      "label": "Assault Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_angel_cartel_battlecruiser_576",
+      "gids": [
+        576
+      ],
+      "label": "Asteroid Angel Cartel BattleCruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_angel_cartel_battleship_552",
+      "gids": [
+        552
+      ],
+      "label": "Asteroid Angel Cartel Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_angel_cartel_commander_battlecruiser_793",
+      "gids": [
+        793
+      ],
+      "label": "Asteroid Angel Cartel Commander BattleCruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_angel_cartel_commander_battleship_848",
+      "gids": [
+        848
+      ],
+      "label": "Asteroid Angel Cartel Commander Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_angel_cartel_commander_cruiser_790",
+      "gids": [
+        790
+      ],
+      "label": "Asteroid Angel Cartel Commander Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_angel_cartel_commander_destroyer_794",
+      "gids": [
+        794
+      ],
+      "label": "Asteroid Angel Cartel Commander Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_angel_cartel_commander_frigate_789",
+      "gids": [
+        789
+      ],
+      "label": "Asteroid Angel Cartel Commander Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_angel_cartel_cruiser_551",
+      "gids": [
+        551
+      ],
+      "label": "Asteroid Angel Cartel Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_angel_cartel_destroyer_575",
+      "gids": [
+        575
+      ],
+      "label": "Asteroid Angel Cartel Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_angel_cartel_dreadnought_1681",
+      "gids": [
+        1681
+      ],
+      "label": "Asteroid Angel Cartel Dreadnought",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_angel_cartel_frigate_550",
+      "gids": [
+        550
+      ],
+      "label": "Asteroid Angel Cartel Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_angel_cartel_hauler_554",
+      "gids": [
+        554
+      ],
+      "label": "Asteroid Angel Cartel Hauler",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_angel_cartel_officer_cruiser_4795",
+      "gids": [
+        4795
+      ],
+      "label": "Asteroid Angel Cartel Officer Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_angel_cartel_officer_frigate_4796",
+      "gids": [
+        4796
+      ],
+      "label": "Asteroid Angel Cartel Officer Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_angel_cartel_titan_1682",
+      "gids": [
+        1682
+      ],
+      "label": "Asteroid Angel Cartel Titan",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_blood_raider_dreadnought_1683",
+      "gids": [
+        1683
+      ],
+      "label": "Asteroid Blood Raider Dreadnought",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_blood_raider_titan_1684",
+      "gids": [
+        1684
+      ],
+      "label": "Asteroid Blood Raider Titan",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_blood_raiders_battlecruiser_578",
+      "gids": [
+        578
+      ],
+      "label": "Asteroid Blood Raiders BattleCruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_blood_raiders_battleship_556",
+      "gids": [
+        556
+      ],
+      "label": "Asteroid Blood Raiders Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_blood_raiders_commander_battlecruiser_795",
+      "gids": [
+        795
+      ],
+      "label": "Asteroid Blood Raiders Commander BattleCruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_blood_raiders_commander_battleship_849",
+      "gids": [
+        849
+      ],
+      "label": "Asteroid Blood Raiders Commander Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_blood_raiders_commander_cruiser_791",
+      "gids": [
+        791
+      ],
+      "label": "Asteroid Blood Raiders Commander Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_blood_raiders_commander_destroyer_796",
+      "gids": [
+        796
+      ],
+      "label": "Asteroid Blood Raiders Commander Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_blood_raiders_commander_frigate_792",
+      "gids": [
+        792
+      ],
+      "label": "Asteroid Blood Raiders Commander Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_blood_raiders_cruiser_555",
+      "gids": [
+        555
+      ],
+      "label": "Asteroid Blood Raiders Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_blood_raiders_destroyer_577",
+      "gids": [
+        577
+      ],
+      "label": "Asteroid Blood Raiders Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_blood_raiders_frigate_557",
+      "gids": [
+        557
+      ],
+      "label": "Asteroid Blood Raiders Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_blood_raiders_hauler_558",
+      "gids": [
+        558
+      ],
+      "label": "Asteroid Blood Raiders Hauler",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_blood_raiders_officer_cruiser_4797",
+      "gids": [
+        4797
+      ],
+      "label": "Asteroid Blood Raiders Officer Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_blood_raiders_officer_frigate_4798",
+      "gids": [
+        4798
+      ],
+      "label": "Asteroid Blood Raiders Officer Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_guristas_battlecruiser_580",
+      "gids": [
+        580
+      ],
+      "label": "Asteroid Guristas BattleCruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_guristas_battleship_560",
+      "gids": [
+        560
+      ],
+      "label": "Asteroid Guristas Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_guristas_commander_battlecruiser_797",
+      "gids": [
+        797
+      ],
+      "label": "Asteroid Guristas Commander BattleCruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_guristas_commander_battleship_850",
+      "gids": [
+        850
+      ],
+      "label": "Asteroid Guristas Commander Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_guristas_commander_cruiser_798",
+      "gids": [
+        798
+      ],
+      "label": "Asteroid Guristas Commander Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_guristas_commander_destroyer_799",
+      "gids": [
+        799
+      ],
+      "label": "Asteroid Guristas Commander Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_guristas_commander_frigate_800",
+      "gids": [
+        800
+      ],
+      "label": "Asteroid Guristas Commander Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_guristas_cruiser_561",
+      "gids": [
+        561
+      ],
+      "label": "Asteroid Guristas Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_guristas_destroyer_579",
+      "gids": [
+        579
+      ],
+      "label": "Asteroid Guristas Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_guristas_dreadnought_1685",
+      "gids": [
+        1685
+      ],
+      "label": "Asteroid Guristas Dreadnought",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_guristas_frigate_562",
+      "gids": [
+        562
+      ],
+      "label": "Asteroid Guristas Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_guristas_hauler_563",
+      "gids": [
+        563
+      ],
+      "label": "Asteroid Guristas Hauler",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_guristas_officer_cruiser_4799",
+      "gids": [
+        4799
+      ],
+      "label": "Asteroid Guristas Officer Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_guristas_officer_frigate_4800",
+      "gids": [
+        4800
+      ],
+      "label": "Asteroid Guristas Officer Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_guristas_titan_1686",
+      "gids": [
+        1686
+      ],
+      "label": "Asteroid Guristas Titan",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_mordus_legion_commander_battleship_1287",
+      "gids": [
+        1287
+      ],
+      "label": "Asteroid Mordus Legion Commander Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_mordus_legion_commander_cruiser_1286",
+      "gids": [
+        1286
+      ],
+      "label": "Asteroid Mordus Legion Commander Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_mordus_legion_commander_frigate_1285",
+      "gids": [
+        1285
+      ],
+      "label": "Asteroid Mordus Legion Commander Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_sansha_s_nation_battlecruiser_582",
+      "gids": [
+        582
+      ],
+      "label": "Asteroid Sansha's Nation BattleCruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_sansha_s_nation_battleship_565",
+      "gids": [
+        565
+      ],
+      "label": "Asteroid Sansha's Nation Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_sansha_s_nation_commander_battlecruiser_807",
+      "gids": [
+        807
+      ],
+      "label": "Asteroid Sansha's Nation Commander BattleCruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_sansha_s_nation_commander_battleship_851",
+      "gids": [
+        851
+      ],
+      "label": "Asteroid Sansha's Nation Commander Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_sansha_s_nation_commander_cruiser_808",
+      "gids": [
+        808
+      ],
+      "label": "Asteroid Sansha's Nation Commander Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_sansha_s_nation_commander_destroyer_809",
+      "gids": [
+        809
+      ],
+      "label": "Asteroid Sansha's Nation Commander Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_sansha_s_nation_commander_frigate_810",
+      "gids": [
+        810
+      ],
+      "label": "Asteroid Sansha's Nation Commander Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_sansha_s_nation_cruiser_566",
+      "gids": [
+        566
+      ],
+      "label": "Asteroid Sansha's Nation Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_sansha_s_nation_destroyer_581",
+      "gids": [
+        581
+      ],
+      "label": "Asteroid Sansha's Nation Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_sansha_s_nation_dreadnought_1687",
+      "gids": [
+        1687
+      ],
+      "label": "Asteroid Sansha's Nation Dreadnought",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_sansha_s_nation_frigate_567",
+      "gids": [
+        567
+      ],
+      "label": "Asteroid Sansha's Nation Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_sansha_s_nation_hauler_568",
+      "gids": [
+        568
+      ],
+      "label": "Asteroid Sansha's Nation Hauler",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_sansha_s_nation_officer_cruiser_4801",
+      "gids": [
+        4801
+      ],
+      "label": "Asteroid Sansha's Nation Officer Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_sansha_s_nation_officer_frigate_4802",
+      "gids": [
+        4802
+      ],
+      "label": "Asteroid Sansha's Nation Officer Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_sansha_s_nation_supercarrier_1688",
+      "gids": [
+        1688
+      ],
+      "label": "Asteroid Sansha's Nation Supercarrier",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_serpentis_battlecruiser_584",
+      "gids": [
+        584
+      ],
+      "label": "Asteroid Serpentis BattleCruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_serpentis_battleship_570",
+      "gids": [
+        570
+      ],
+      "label": "Asteroid Serpentis Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_serpentis_commander_battlecruiser_811",
+      "gids": [
+        811
+      ],
+      "label": "Asteroid Serpentis Commander BattleCruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_serpentis_commander_battleship_852",
+      "gids": [
+        852
+      ],
+      "label": "Asteroid Serpentis Commander Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_serpentis_commander_cruiser_812",
+      "gids": [
+        812
+      ],
+      "label": "Asteroid Serpentis Commander Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_serpentis_commander_destroyer_813",
+      "gids": [
+        813
+      ],
+      "label": "Asteroid Serpentis Commander Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_serpentis_commander_frigate_814",
+      "gids": [
+        814
+      ],
+      "label": "Asteroid Serpentis Commander Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_serpentis_cruiser_571",
+      "gids": [
+        571
+      ],
+      "label": "Asteroid Serpentis Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_serpentis_destroyer_583",
+      "gids": [
+        583
+      ],
+      "label": "Asteroid Serpentis Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_serpentis_dreadnought_1689",
+      "gids": [
+        1689
+      ],
+      "label": "Asteroid Serpentis Dreadnought",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_serpentis_frigate_572",
+      "gids": [
+        572
+      ],
+      "label": "Asteroid Serpentis Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_serpentis_hauler_573",
+      "gids": [
+        573
+      ],
+      "label": "Asteroid Serpentis Hauler",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_serpentis_officer_cruiser_4803",
+      "gids": [
+        4803
+      ],
+      "label": "Asteroid Serpentis Officer Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_serpentis_officer_frigate_4804",
+      "gids": [
+        4804
+      ],
+      "label": "Asteroid Serpentis Officer Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "asteroid_serpentis_titan_1690",
+      "gids": [
+        1690
+      ],
+      "label": "Asteroid Serpentis Titan",
+      "cat": "Ships"
+    },
+    {
+      "id": "attack_battlecruiser_1201",
+      "gids": [
+        1201
+      ],
+      "label": "Attack Battlecruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "battleship_27",
+      "gids": [
+        27
+      ],
+      "label": "Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "black_ops_898",
+      "gids": [
+        898
+      ],
+      "label": "Black Ops",
+      "cat": "Ships"
+    },
+    {
+      "id": "capital_industrial_ship_883",
+      "gids": [
+        883
+      ],
+      "label": "Capital Industrial Ship",
+      "cat": "Ships"
+    },
+    {
+      "id": "capsule_29",
+      "gids": [
+        29
+      ],
+      "label": "Capsule",
+      "cat": "Ships"
+    },
+    {
+      "id": "capsuleer_bases_1082",
+      "gids": [
+        1082
+      ],
+      "label": "Capsuleer Bases",
+      "cat": "Ships"
+    },
+    {
+      "id": "carrier_547",
+      "gids": [
+        547
+      ],
+      "label": "Carrier",
+      "cat": "Ships"
+    },
+    {
+      "id": "combat_battlecruiser_419",
+      "gids": [
+        419
+      ],
+      "label": "Combat Battlecruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "combat_recon_ship_906",
+      "gids": [
+        906
+      ],
+      "label": "Combat Recon Ship",
+      "cat": "Ships"
+    },
+    {
+      "id": "command_destroyer_1534",
+      "gids": [
+        1534
+      ],
+      "label": "Command Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "command_ship_540",
+      "gids": [
+        540
+      ],
+      "label": "Command Ship",
+      "cat": "Ships"
+    },
+    {
+      "id": "corvette_237",
+      "gids": [
+        237
+      ],
+      "label": "Corvette",
+      "cat": "Ships"
+    },
+    {
+      "id": "cruiser_26",
+      "gids": [
+        26
+      ],
+      "label": "Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "deadspace_angel_cartel_battlecruiser_593",
+      "gids": [
+        593
+      ],
+      "label": "Deadspace Angel Cartel BattleCruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "deadspace_angel_cartel_battleship_594",
+      "gids": [
+        594
+      ],
+      "label": "Deadspace Angel Cartel Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "deadspace_angel_cartel_cruiser_595",
+      "gids": [
+        595
+      ],
+      "label": "Deadspace Angel Cartel Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "deadspace_angel_cartel_destroyer_596",
+      "gids": [
+        596
+      ],
+      "label": "Deadspace Angel Cartel Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "deadspace_angel_cartel_frigate_597",
+      "gids": [
+        597
+      ],
+      "label": "Deadspace Angel Cartel Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "deadspace_blood_raiders_battlecruiser_602",
+      "gids": [
+        602
+      ],
+      "label": "Deadspace Blood Raiders BattleCruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "deadspace_blood_raiders_battleship_603",
+      "gids": [
+        603
+      ],
+      "label": "Deadspace Blood Raiders Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "deadspace_blood_raiders_cruiser_604",
+      "gids": [
+        604
+      ],
+      "label": "Deadspace Blood Raiders Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "deadspace_blood_raiders_destroyer_605",
+      "gids": [
+        605
+      ],
+      "label": "Deadspace Blood Raiders Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "deadspace_blood_raiders_frigate_606",
+      "gids": [
+        606
+      ],
+      "label": "Deadspace Blood Raiders Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "deadspace_guristas_battlecruiser_611",
+      "gids": [
+        611
+      ],
+      "label": "Deadspace Guristas BattleCruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "deadspace_guristas_battleship_612",
+      "gids": [
+        612
+      ],
+      "label": "Deadspace Guristas Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "deadspace_guristas_cruiser_613",
+      "gids": [
+        613
+      ],
+      "label": "Deadspace Guristas Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "deadspace_guristas_destroyer_614",
+      "gids": [
+        614
+      ],
+      "label": "Deadspace Guristas Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "deadspace_guristas_frigate_615",
+      "gids": [
+        615
+      ],
+      "label": "Deadspace Guristas Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "deadspace_overseer_battleship_821",
+      "gids": [
+        821
+      ],
+      "label": "Deadspace Overseer Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "deadspace_overseer_cruiser_820",
+      "gids": [
+        820
+      ],
+      "label": "Deadspace Overseer Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "deadspace_overseer_frigate_819",
+      "gids": [
+        819
+      ],
+      "label": "Deadspace Overseer Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "deadspace_sansha_s_nation_battlecruiser_620",
+      "gids": [
+        620
+      ],
+      "label": "Deadspace Sansha's Nation BattleCruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "deadspace_sansha_s_nation_battleship_621",
+      "gids": [
+        621
+      ],
+      "label": "Deadspace Sansha's Nation Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "deadspace_sansha_s_nation_cruiser_622",
+      "gids": [
+        622
+      ],
+      "label": "Deadspace Sansha's Nation Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "deadspace_sansha_s_nation_destroyer_623",
+      "gids": [
+        623
+      ],
+      "label": "Deadspace Sansha's Nation Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "deadspace_sansha_s_nation_frigate_624",
+      "gids": [
+        624
+      ],
+      "label": "Deadspace Sansha's Nation Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "deadspace_serpentis_battlecruiser_629",
+      "gids": [
+        629
+      ],
+      "label": "Deadspace Serpentis BattleCruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "deadspace_serpentis_battleship_630",
+      "gids": [
+        630
+      ],
+      "label": "Deadspace Serpentis Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "deadspace_serpentis_cruiser_631",
+      "gids": [
+        631
+      ],
+      "label": "Deadspace Serpentis Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "deadspace_serpentis_destroyer_632",
+      "gids": [
+        632
+      ],
+      "label": "Deadspace Serpentis Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "deadspace_serpentis_frigate_633",
+      "gids": [
+        633
+      ],
+      "label": "Deadspace Serpentis Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "destroyer_420",
+      "gids": [
+        420
+      ],
+      "label": "Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "dreadnought_485",
+      "gids": [
+        485
+      ],
+      "label": "Dreadnought",
+      "cat": "Ships"
+    },
+    {
+      "id": "drifter_battleship_1310",
+      "gids": [
+        1310
+      ],
+      "label": "Drifter Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "drifter_response_battleship_1530",
+      "gids": [
+        1530
+      ],
+      "label": "Drifter Response Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "elite_battleship_381",
+      "gids": [
+        381
+      ],
+      "label": "Elite Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "exhumer_543",
+      "gids": [
+        543
+      ],
+      "label": "Exhumer",
+      "cat": "Ships"
+    },
+    {
+      "id": "expedition_command_ship_4902",
+      "gids": [
+        4902
+      ],
+      "label": "Expedition Command Ship",
+      "cat": "Ships"
+    },
+    {
+      "id": "expedition_frigate_1283",
+      "gids": [
+        1283
+      ],
+      "label": "Expedition Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "flag_cruiser_1972",
+      "gids": [
+        1972
+      ],
+      "label": "Flag Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "force_auxiliary_1538",
+      "gids": [
+        1538
+      ],
+      "label": "Force Auxiliary",
+      "cat": "Ships"
+    },
+    {
+      "id": "force_recon_ship_833",
+      "gids": [
+        833
+      ],
+      "label": "Force Recon Ship",
+      "cat": "Ships"
+    },
+    {
+      "id": "freighter_513",
+      "gids": [
+        513
+      ],
+      "label": "Freighter",
+      "cat": "Ships"
+    },
+    {
+      "id": "frigate_25",
+      "gids": [
+        25
+      ],
+      "label": "Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "fw_amarr_empire_battlecruiser_1183",
+      "gids": [
+        1183
+      ],
+      "label": "FW Amarr Empire Battlecruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "fw_amarr_empire_battleship_4431",
+      "gids": [
+        4431
+      ],
+      "label": "FW Amarr Empire Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "fw_amarr_empire_cruiser_1179",
+      "gids": [
+        1179
+      ],
+      "label": "FW Amarr Empire Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "fw_amarr_empire_destroyer_1175",
+      "gids": [
+        1175
+      ],
+      "label": "FW Amarr Empire Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "fw_amarr_empire_frigate_1169",
+      "gids": [
+        1169
+      ],
+      "label": "FW Amarr Empire Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "fw_amarr_empire_hauler_5063",
+      "gids": [
+        5063
+      ],
+      "label": "FW Amarr Empire Hauler",
+      "cat": "Ships"
+    },
+    {
+      "id": "fw_caldari_state_battlecruiser_1184",
+      "gids": [
+        1184
+      ],
+      "label": "FW Caldari State Battlecruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "fw_caldari_state_battleship_4432",
+      "gids": [
+        4432
+      ],
+      "label": "FW Caldari State Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "fw_caldari_state_cruiser_1180",
+      "gids": [
+        1180
+      ],
+      "label": "FW Caldari State Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "fw_caldari_state_destroyer_1176",
+      "gids": [
+        1176
+      ],
+      "label": "FW Caldari State Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "fw_caldari_state_frigate_1167",
+      "gids": [
+        1167
+      ],
+      "label": "FW Caldari State Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "fw_caldari_state_hauler_5064",
+      "gids": [
+        5064
+      ],
+      "label": "FW Caldari State Hauler",
+      "cat": "Ships"
+    },
+    {
+      "id": "fw_gallente_federation_battlecruiser_1185",
+      "gids": [
+        1185
+      ],
+      "label": "FW Gallente Federation Battlecruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "fw_gallente_federation_battleship_4433",
+      "gids": [
+        4433
+      ],
+      "label": "FW Gallente Federation Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "fw_gallente_federation_cruiser_1181",
+      "gids": [
+        1181
+      ],
+      "label": "FW Gallente Federation Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "fw_gallente_federation_destroyer_1177",
+      "gids": [
+        1177
+      ],
+      "label": "FW Gallente Federation Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "fw_gallente_federation_frigate_1168",
+      "gids": [
+        1168
+      ],
+      "label": "FW Gallente Federation Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "fw_gallente_federation_hauler_5065",
+      "gids": [
+        5065
+      ],
+      "label": "FW Gallente Federation Hauler",
+      "cat": "Ships"
+    },
+    {
+      "id": "fw_minmatar_republic_battlecruiser_1186",
+      "gids": [
+        1186
+      ],
+      "label": "FW Minmatar Republic Battlecruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "fw_minmatar_republic_battleship_4434",
+      "gids": [
+        4434
+      ],
+      "label": "FW Minmatar Republic Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "fw_minmatar_republic_cruiser_1182",
+      "gids": [
+        1182
+      ],
+      "label": "FW Minmatar Republic Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "fw_minmatar_republic_destroyer_1178",
+      "gids": [
+        1178
+      ],
+      "label": "FW Minmatar Republic Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "fw_minmatar_republic_frigate_1166",
+      "gids": [
+        1166
+      ],
+      "label": "FW Minmatar Republic Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "fw_minmatar_republic_hauler_5066",
+      "gids": [
+        5066
+      ],
+      "label": "FW Minmatar Republic Hauler",
+      "cat": "Ships"
+    },
+    {
+      "id": "ghost_sites_angel_cartel_cruiser_1252",
+      "gids": [
+        1252
+      ],
+      "label": "Ghost Sites Angel Cartel Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "ghost_sites_blood_raiders_cruiser_1255",
+      "gids": [
+        1255
+      ],
+      "label": "Ghost Sites Blood Raiders Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "ghost_sites_guristas_cruiser_1259",
+      "gids": [
+        1259
+      ],
+      "label": "Ghost Sites Guristas Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "ghost_sites_sanshas_cruiser_1265",
+      "gids": [
+        1265
+      ],
+      "label": "Ghost Sites Sanshas Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "ghost_sites_serpentis_cruiser_1262",
+      "gids": [
+        1262
+      ],
+      "label": "Ghost Sites Serpentis Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "hauler_28",
+      "gids": [
+        28
+      ],
+      "label": "Hauler",
+      "cat": "Ships"
+    },
+    {
+      "id": "heavy_assault_cruiser_358",
+      "gids": [
+        358
+      ],
+      "label": "Heavy Assault Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "heavy_interdiction_cruiser_894",
+      "gids": [
+        894
+      ],
+      "label": "Heavy Interdiction Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "hidden_zenith_amarr_battleship_1789",
+      "gids": [
+        1789
+      ],
+      "label": "Hidden Zenith Amarr Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "hidden_zenith_amarr_cruiser_1790",
+      "gids": [
+        1790
+      ],
+      "label": "Hidden Zenith Amarr Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "hidden_zenith_amarr_frigate_1791",
+      "gids": [
+        1791
+      ],
+      "label": "Hidden Zenith Amarr Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "hidden_zenith_caldari_battleship_1792",
+      "gids": [
+        1792
+      ],
+      "label": "Hidden Zenith Caldari Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "hidden_zenith_caldari_cruiser_1793",
+      "gids": [
+        1793
+      ],
+      "label": "Hidden Zenith Caldari Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "hidden_zenith_caldari_frigate_1794",
+      "gids": [
+        1794
+      ],
+      "label": "Hidden Zenith Caldari Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "hidden_zenith_gallente_battleship_1795",
+      "gids": [
+        1795
+      ],
+      "label": "Hidden Zenith Gallente Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "hidden_zenith_gallente_cruiser_1796",
+      "gids": [
+        1796
+      ],
+      "label": "Hidden Zenith Gallente Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "hidden_zenith_gallente_frigate_1797",
+      "gids": [
+        1797
+      ],
+      "label": "Hidden Zenith Gallente Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "hidden_zenith_minmatar_battleship_1798",
+      "gids": [
+        1798
+      ],
+      "label": "Hidden Zenith Minmatar Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "hidden_zenith_minmatar_cruiser_1799",
+      "gids": [
+        1799
+      ],
+      "label": "Hidden Zenith Minmatar Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "hidden_zenith_minmatar_frigate_1800",
+      "gids": [
+        1800
+      ],
+      "label": "Hidden Zenith Minmatar Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "homefront_operations_allied_dreadnought_4572",
+      "gids": [
+        4572
+      ],
+      "label": "Homefront Operations Allied Dreadnought",
+      "cat": "Ships"
+    },
+    {
+      "id": "homefront_operations_enemy_battlecruiser_4573",
+      "gids": [
+        4573
+      ],
+      "label": "Homefront Operations Enemy Battlecruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "homefront_operations_enemy_battleship_4574",
+      "gids": [
+        4574
+      ],
+      "label": "Homefront Operations Enemy Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "homefront_operations_enemy_cruiser_4571",
+      "gids": [
+        4571
+      ],
+      "label": "Homefront Operations Enemy Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "homefront_operations_enemy_destroyer_4570",
+      "gids": [
+        4570
+      ],
+      "label": "Homefront Operations Enemy Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "homefront_operations_enemy_frigate_4569",
+      "gids": [
+        4569
+      ],
+      "label": "Homefront Operations Enemy Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "homefront_operations_hauler_4577",
+      "gids": [
+        4577
+      ],
+      "label": "Homefront Operations Hauler",
+      "cat": "Ships"
+    },
+    {
+      "id": "homefront_operations_shuttle_4737",
+      "gids": [
+        4737
+      ],
+      "label": "Homefront Operations Shuttle",
+      "cat": "Ships"
+    },
+    {
+      "id": "incursion_sansha_s_nation_battleship_1056",
+      "gids": [
+        1056
+      ],
+      "label": "Incursion Sansha's Nation Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "incursion_sansha_s_nation_cruiser_1054",
+      "gids": [
+        1054
+      ],
+      "label": "Incursion Sansha's Nation Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "incursion_sansha_s_nation_frigate_1053",
+      "gids": [
+        1053
+      ],
+      "label": "Incursion Sansha's Nation Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "industrial_command_ship_941",
+      "gids": [
+        941
+      ],
+      "label": "Industrial Command Ship",
+      "cat": "Ships"
+    },
+    {
+      "id": "insurgency_mordu_battlecruiser_4655",
+      "gids": [
+        4655
+      ],
+      "label": "Insurgency Mordu Battlecruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "insurgency_mordu_battleship_4656",
+      "gids": [
+        4656
+      ],
+      "label": "Insurgency Mordu Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "insurgency_mordu_cruiser_4654",
+      "gids": [
+        4654
+      ],
+      "label": "Insurgency Mordu Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "insurgency_mordu_destroyer_4653",
+      "gids": [
+        4653
+      ],
+      "label": "Insurgency Mordu Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "insurgency_mordu_frigate_4652",
+      "gids": [
+        4652
+      ],
+      "label": "Insurgency Mordu Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "insurgency_pirate_battlecruiser_4650",
+      "gids": [
+        4650
+      ],
+      "label": "Insurgency Pirate Battlecruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "insurgency_pirate_battleship_4651",
+      "gids": [
+        4651
+      ],
+      "label": "Insurgency Pirate Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "insurgency_pirate_cruiser_4649",
+      "gids": [
+        4649
+      ],
+      "label": "Insurgency Pirate Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "insurgency_pirate_destroyer_4648",
+      "gids": [
+        4648
+      ],
+      "label": "Insurgency Pirate Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "insurgency_pirate_frigate_4647",
+      "gids": [
+        4647
+      ],
+      "label": "Insurgency Pirate Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "interceptor_831",
+      "gids": [
+        831
+      ],
+      "label": "Interceptor",
+      "cat": "Ships"
+    },
+    {
+      "id": "interdictor_541",
+      "gids": [
+        541
+      ],
+      "label": "Interdictor",
+      "cat": "Ships"
+    },
+    {
+      "id": "irregular_battlecruiser_1666",
+      "gids": [
+        1666
+      ],
+      "label": "Irregular Battlecruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "irregular_battleship_1667",
+      "gids": [
+        1667
+      ],
+      "label": "Irregular Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "irregular_capital_industrial_ship_4975",
+      "gids": [
+        4975
+      ],
+      "label": "Irregular Capital Industrial Ship",
+      "cat": "Ships"
+    },
+    {
+      "id": "irregular_capsule_4053",
+      "gids": [
+        4053
+      ],
+      "label": "Irregular Capsule",
+      "cat": "Ships"
+    },
+    {
+      "id": "irregular_carrier_1726",
+      "gids": [
+        1726
+      ],
+      "label": "Irregular Carrier",
+      "cat": "Ships"
+    },
+    {
+      "id": "irregular_corvette_1567",
+      "gids": [
+        1567
+      ],
+      "label": "Irregular Corvette",
+      "cat": "Ships"
+    },
+    {
+      "id": "irregular_cruiser_1665",
+      "gids": [
+        1665
+      ],
+      "label": "Irregular Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "irregular_destroyer_1664",
+      "gids": [
+        1664
+      ],
+      "label": "Irregular Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "irregular_dreadnought_1724",
+      "gids": [
+        1724
+      ],
+      "label": "Irregular Dreadnought",
+      "cat": "Ships"
+    },
+    {
+      "id": "irregular_expedition_command_ship_4945",
+      "gids": [
+        4945
+      ],
+      "label": "Irregular Expedition Command Ship",
+      "cat": "Ships"
+    },
+    {
+      "id": "irregular_force_auxiliary_1725",
+      "gids": [
+        1725
+      ],
+      "label": "Irregular Force Auxiliary",
+      "cat": "Ships"
+    },
+    {
+      "id": "irregular_freighter_1926",
+      "gids": [
+        1926
+      ],
+      "label": "Irregular Freighter",
+      "cat": "Ships"
+    },
+    {
+      "id": "irregular_frigate_1568",
+      "gids": [
+        1568
+      ],
+      "label": "Irregular Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "irregular_industrial_command_ship_1925",
+      "gids": [
+        1925
+      ],
+      "label": "Irregular Industrial Command Ship",
+      "cat": "Ships"
+    },
+    {
+      "id": "irregular_mining_barge_1762",
+      "gids": [
+        1762
+      ],
+      "label": "Irregular Mining Barge",
+      "cat": "Ships"
+    },
+    {
+      "id": "irregular_mining_frigate_1761",
+      "gids": [
+        1761
+      ],
+      "label": "Irregular Mining Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "irregular_shuttle_1566",
+      "gids": [
+        1566
+      ],
+      "label": "Irregular Shuttle",
+      "cat": "Ships"
+    },
+    {
+      "id": "irregular_super_carrier_1731",
+      "gids": [
+        1731
+      ],
+      "label": "Irregular Super Carrier",
+      "cat": "Ships"
+    },
+    {
+      "id": "irregular_titan_1759",
+      "gids": [
+        1759
+      ],
+      "label": "Irregular Titan",
+      "cat": "Ships"
+    },
+    {
+      "id": "jump_freighter_902",
+      "gids": [
+        902
+      ],
+      "label": "Jump Freighter",
+      "cat": "Ships"
+    },
+    {
+      "id": "lancer_dreadnought_4594",
+      "gids": [
+        4594
+      ],
+      "label": "Lancer Dreadnought",
+      "cat": "Ships"
+    },
+    {
+      "id": "logistics_832",
+      "gids": [
+        832
+      ],
+      "label": "Logistics",
+      "cat": "Ships"
+    },
+    {
+      "id": "logistics_frigate_1527",
+      "gids": [
+        1527
+      ],
+      "label": "Logistics Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "marauder_900",
+      "gids": [
+        900
+      ],
+      "label": "Marauder",
+      "cat": "Ships"
+    },
+    {
+      "id": "mining_barge_463",
+      "gids": [
+        463
+      ],
+      "label": "Mining Barge",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_amarr_empire_battlecruiser_666",
+      "gids": [
+        666
+      ],
+      "label": "Mission Amarr Empire Battlecruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_amarr_empire_battleship_667",
+      "gids": [
+        667
+      ],
+      "label": "Mission Amarr Empire Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_amarr_empire_carrier_865",
+      "gids": [
+        865
+      ],
+      "label": "Mission Amarr Empire Carrier",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_amarr_empire_cruiser_668",
+      "gids": [
+        668
+      ],
+      "label": "Mission Amarr Empire Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_amarr_empire_destroyer_669",
+      "gids": [
+        669
+      ],
+      "label": "Mission Amarr Empire Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_amarr_empire_frigate_665",
+      "gids": [
+        665
+      ],
+      "label": "Mission Amarr Empire Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_caldari_state_battlecruiser_672",
+      "gids": [
+        672
+      ],
+      "label": "Mission Caldari State Battlecruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_caldari_state_battleship_674",
+      "gids": [
+        674
+      ],
+      "label": "Mission Caldari State Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_caldari_state_carrier_866",
+      "gids": [
+        866
+      ],
+      "label": "Mission Caldari State Carrier",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_caldari_state_cruiser_673",
+      "gids": [
+        673
+      ],
+      "label": "Mission Caldari State Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_caldari_state_destroyer_676",
+      "gids": [
+        676
+      ],
+      "label": "Mission Caldari State Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_caldari_state_frigate_671",
+      "gids": [
+        671
+      ],
+      "label": "Mission Caldari State Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_concord_battlecruiser_696",
+      "gids": [
+        696
+      ],
+      "label": "Mission CONCORD Battlecruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_concord_battleship_697",
+      "gids": [
+        697
+      ],
+      "label": "Mission CONCORD Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_concord_cruiser_695",
+      "gids": [
+        695
+      ],
+      "label": "Mission CONCORD Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_concord_destroyer_694",
+      "gids": [
+        694
+      ],
+      "label": "Mission CONCORD Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_concord_frigate_693",
+      "gids": [
+        693
+      ],
+      "label": "Mission CONCORD Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_faction_battleship_924",
+      "gids": [
+        924
+      ],
+      "label": "Mission Faction Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_faction_cruiser_1006",
+      "gids": [
+        1006
+      ],
+      "label": "Mission Faction Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_faction_frigate_1007",
+      "gids": [
+        1007
+      ],
+      "label": "Mission Faction Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_faction_haulers_927",
+      "gids": [
+        927
+      ],
+      "label": "Mission Faction Haulers",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_gallente_federation_battlecruiser_681",
+      "gids": [
+        681
+      ],
+      "label": "Mission Gallente Federation Battlecruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_gallente_federation_battleship_680",
+      "gids": [
+        680
+      ],
+      "label": "Mission Gallente Federation Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_gallente_federation_carrier_867",
+      "gids": [
+        867
+      ],
+      "label": "Mission Gallente Federation Carrier",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_gallente_federation_cruiser_678",
+      "gids": [
+        678
+      ],
+      "label": "Mission Gallente Federation Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_gallente_federation_destroyer_679",
+      "gids": [
+        679
+      ],
+      "label": "Mission Gallente Federation Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_gallente_federation_frigate_677",
+      "gids": [
+        677
+      ],
+      "label": "Mission Gallente Federation Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_generic_battle_cruisers_828",
+      "gids": [
+        828
+      ],
+      "label": "Mission Generic Battle Cruisers",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_generic_battleships_816",
+      "gids": [
+        816
+      ],
+      "label": "Mission Generic Battleships",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_generic_capsules_4501",
+      "gids": [
+        4501
+      ],
+      "label": "Mission Generic Capsules",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_generic_cruisers_817",
+      "gids": [
+        817
+      ],
+      "label": "Mission Generic Cruisers",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_generic_destroyers_829",
+      "gids": [
+        829
+      ],
+      "label": "Mission Generic Destroyers",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_generic_frigates_818",
+      "gids": [
+        818
+      ],
+      "label": "Mission Generic Frigates",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_generic_supercarrier_1465",
+      "gids": [
+        1465
+      ],
+      "label": "Mission Generic Supercarrier",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_khanid_battlecruiser_690",
+      "gids": [
+        690
+      ],
+      "label": "Mission Khanid Battlecruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_khanid_battleship_691",
+      "gids": [
+        691
+      ],
+      "label": "Mission Khanid Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_khanid_cruiser_689",
+      "gids": [
+        689
+      ],
+      "label": "Mission Khanid Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_khanid_destroyer_688",
+      "gids": [
+        688
+      ],
+      "label": "Mission Khanid Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_khanid_frigate_687",
+      "gids": [
+        687
+      ],
+      "label": "Mission Khanid Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_minmatar_republic_battlecruiser_685",
+      "gids": [
+        685
+      ],
+      "label": "Mission Minmatar Republic Battlecruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_minmatar_republic_battleship_706",
+      "gids": [
+        706
+      ],
+      "label": "Mission Minmatar Republic Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_minmatar_republic_carrier_868",
+      "gids": [
+        868
+      ],
+      "label": "Mission Minmatar Republic Carrier",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_minmatar_republic_cruiser_705",
+      "gids": [
+        705
+      ],
+      "label": "Mission Minmatar Republic Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_minmatar_republic_destroyer_684",
+      "gids": [
+        684
+      ],
+      "label": "Mission Minmatar Republic Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_minmatar_republic_frigate_683",
+      "gids": [
+        683
+      ],
+      "label": "Mission Minmatar Republic Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_mordu_battlecruiser_702",
+      "gids": [
+        702
+      ],
+      "label": "Mission Mordu Battlecruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_mordu_battleship_703",
+      "gids": [
+        703
+      ],
+      "label": "Mission Mordu Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_mordu_cruiser_701",
+      "gids": [
+        701
+      ],
+      "label": "Mission Mordu Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_mordu_destroyer_700",
+      "gids": [
+        700
+      ],
+      "label": "Mission Mordu Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_mordu_frigate_699",
+      "gids": [
+        699
+      ],
+      "label": "Mission Mordu Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_thukker_battlecruiser_822",
+      "gids": [
+        822
+      ],
+      "label": "Mission Thukker Battlecruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_thukker_battleship_823",
+      "gids": [
+        823
+      ],
+      "label": "Mission Thukker Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_thukker_cruiser_824",
+      "gids": [
+        824
+      ],
+      "label": "Mission Thukker Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_thukker_destroyer_825",
+      "gids": [
+        825
+      ],
+      "label": "Mission Thukker Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "mission_thukker_frigate_826",
+      "gids": [
+        826
+      ],
+      "label": "Mission Thukker Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "moreau_s_capsuleer_outreach_center_entities_5078",
+      "gids": [
+        5078
+      ],
+      "label": "Moreau’s Capsuleer Outreach Center Entities",
+      "cat": "Ships"
+    },
+    {
+      "id": "roaming_angel_cartel_battleship_1727",
+      "gids": [
+        1727
+      ],
+      "label": "Roaming Angel Cartel Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "roaming_angel_cartel_cruiser_1728",
+      "gids": [
+        1728
+      ],
+      "label": "Roaming Angel Cartel Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "roaming_angel_cartel_frigate_1729",
+      "gids": [
+        1729
+      ],
+      "label": "Roaming Angel Cartel Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "roaming_blood_raider_battlecruiser_1736",
+      "gids": [
+        1736
+      ],
+      "label": "Roaming Blood Raider Battlecruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "roaming_blood_raider_battleship_1737",
+      "gids": [
+        1737
+      ],
+      "label": "Roaming Blood Raider Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "roaming_blood_raider_cruiser_1735",
+      "gids": [
+        1735
+      ],
+      "label": "Roaming Blood Raider Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "roaming_blood_raider_frigate_1734",
+      "gids": [
+        1734
+      ],
+      "label": "Roaming Blood Raider Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "roaming_serpentis_battleship_1720",
+      "gids": [
+        1720
+      ],
+      "label": "Roaming Serpentis Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "roaming_serpentis_cruiser_1721",
+      "gids": [
+        1721
+      ],
+      "label": "Roaming Serpentis Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "roaming_serpentis_frigate_1722",
+      "gids": [
+        1722
+      ],
+      "label": "Roaming Serpentis Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "roaming_sleepers_cruiser_1307",
+      "gids": [
+        1307
+      ],
+      "label": "Roaming Sleepers Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "roden_s_capsuleer_outreach_center_entities_5080",
+      "gids": [
+        5080
+      ],
+      "label": "Roden’s Capsuleer Outreach Center Entities",
+      "cat": "Ships"
+    },
+    {
+      "id": "shuttle_31",
+      "gids": [
+        31
+      ],
+      "label": "Shuttle",
+      "cat": "Ships"
+    },
+    {
+      "id": "storyline_battleship_523",
+      "gids": [
+        523
+      ],
+      "label": "Storyline Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "storyline_cruiser_522",
+      "gids": [
+        522
+      ],
+      "label": "Storyline Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "storyline_frigate_520",
+      "gids": [
+        520
+      ],
+      "label": "Storyline Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "storyline_mission_battleship_534",
+      "gids": [
+        534
+      ],
+      "label": "Storyline Mission Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "storyline_mission_cruiser_533",
+      "gids": [
+        533
+      ],
+      "label": "Storyline Mission Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "storyline_mission_frigate_527",
+      "gids": [
+        527
+      ],
+      "label": "Storyline Mission Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "strategic_cruiser_963",
+      "gids": [
+        963
+      ],
+      "label": "Strategic Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "supercarrier_659",
+      "gids": [
+        659
+      ],
+      "label": "Supercarrier",
+      "cat": "Ships"
+    },
+    {
+      "id": "tactical_destroyer_1305",
+      "gids": [
+        1305
+      ],
+      "label": "Tactical Destroyer",
+      "cat": "Ships"
+    },
+    {
+      "id": "tenzin_s_capsuleer_outreach_center_entities_5079",
+      "gids": [
+        5079
+      ],
+      "label": "Tenzin’s Capsuleer Outreach Center Entities",
+      "cat": "Ships"
+    },
+    {
+      "id": "titan_30",
+      "gids": [
+        30
+      ],
+      "label": "Titan",
+      "cat": "Ships"
+    },
+    {
+      "id": "warpath_defenders_battlecruisers_5090",
+      "gids": [
+        5090
+      ],
+      "label": "Warpath Defenders -  Battlecruisers",
+      "cat": "Ships"
+    },
+    {
+      "id": "warpath_defenders_cruisers_5099",
+      "gids": [
+        5099
+      ],
+      "label": "Warpath Defenders - Cruisers",
+      "cat": "Ships"
+    },
+    {
+      "id": "warpath_defenders_frigates_5101",
+      "gids": [
+        5101
+      ],
+      "label": "Warpath Defenders - Frigates",
+      "cat": "Ships"
+    },
+    {
+      "id": "warpath_elite_mercenaries_battleships_5096",
+      "gids": [
+        5096
+      ],
+      "label": "Warpath Elite Mercenaries - Battleships",
+      "cat": "Ships"
+    },
+    {
+      "id": "warpath_elite_mercenaries_cruisers_5097",
+      "gids": [
+        5097
+      ],
+      "label": "Warpath Elite Mercenaries - Cruisers",
+      "cat": "Ships"
+    },
+    {
+      "id": "warpath_elite_mercenaries_frigates_5098",
+      "gids": [
+        5098
+      ],
+      "label": "Warpath Elite Mercenaries - Frigates",
+      "cat": "Ships"
+    },
+    {
+      "id": "warpath_invaders_battlecruisers_5089",
+      "gids": [
+        5089
+      ],
+      "label": "Warpath Invaders - Battlecruisers",
+      "cat": "Ships"
+    },
+    {
+      "id": "warpath_invaders_cruisers_5100",
+      "gids": [
+        5100
+      ],
+      "label": "Warpath Invaders - Cruisers",
+      "cat": "Ships"
+    },
+    {
+      "id": "warpath_invaders_frigates_5102",
+      "gids": [
+        5102
+      ],
+      "label": "Warpath Invaders - Frigates",
+      "cat": "Ships"
+    },
+    {
+      "id": "battlecruiser_1909",
+      "gids": [
+        1909
+      ],
+      "label": "♦ Battlecruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "battleship_1814",
+      "gids": [
+        1814
+      ],
+      "label": "♦ Battleship",
+      "cat": "Ships"
+    },
+    {
+      "id": "cruiser_1813",
+      "gids": [
+        1813
+      ],
+      "label": "♦ Cruiser",
+      "cat": "Ships"
+    },
+    {
+      "id": "dreadnought_1880",
+      "gids": [
+        1880
+      ],
+      "label": "♦ Dreadnought",
+      "cat": "Ships"
+    },
+    {
+      "id": "force_auxiliary_1879",
+      "gids": [
+        1879
+      ],
+      "label": "♦ Force Auxiliary",
+      "cat": "Ships"
+    },
+    {
+      "id": "frigate_1803",
+      "gids": [
+        1803
+      ],
+      "label": "♦ Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "industrial_command_ship_4917",
+      "gids": [
+        4917
+      ],
+      "label": "♦ Industrial Command Ship",
+      "cat": "Ships"
+    },
+    {
+      "id": "mining_barge_1765",
+      "gids": [
+        1765
+      ],
+      "label": "♦ Mining Barge",
+      "cat": "Ships"
+    },
+    {
+      "id": "mining_exhumer_1766",
+      "gids": [
+        1766
+      ],
+      "label": "♦ Mining Exhumer",
+      "cat": "Ships"
+    },
+    {
+      "id": "mining_frigate_1764",
+      "gids": [
+        1764
+      ],
+      "label": "♦ Mining Frigate",
+      "cat": "Ships"
+    },
+    {
+      "id": "mining_hauler_1767",
+      "gids": [
+        1767
+      ],
+      "label": "♦ Mining Hauler",
+      "cat": "Ships"
+    },
+    {
+      "id": "titan_1878",
+      "gids": [
+        1878
+      ],
+      "label": "♦ Titan",
+      "cat": "Ships"
+    },
+    {
+      "id": "abyssal_drone_entities_1997",
+      "gids": [
+        1997
+      ],
+      "label": "Abyssal Drone Entities",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "asteroid_rogue_drone_battlecruiser_755",
+      "gids": [
+        755
+      ],
+      "label": "Asteroid Rogue Drone BattleCruiser",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "asteroid_rogue_drone_battleship_756",
+      "gids": [
+        756
+      ],
+      "label": "Asteroid Rogue Drone Battleship",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "asteroid_rogue_drone_carrier_1691",
+      "gids": [
+        1691
+      ],
+      "label": "Asteroid Rogue Drone Carrier",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "asteroid_rogue_drone_commander_battlecruiser_843",
+      "gids": [
+        843
+      ],
+      "label": "Asteroid Rogue Drone Commander BattleCruiser",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "asteroid_rogue_drone_commander_battleship_844",
+      "gids": [
+        844
+      ],
+      "label": "Asteroid Rogue Drone Commander Battleship",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "asteroid_rogue_drone_commander_cruiser_845",
+      "gids": [
+        845
+      ],
+      "label": "Asteroid Rogue Drone Commander Cruiser",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "asteroid_rogue_drone_commander_destroyer_846",
+      "gids": [
+        846
+      ],
+      "label": "Asteroid Rogue Drone Commander Destroyer",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "asteroid_rogue_drone_commander_frigate_847",
+      "gids": [
+        847
+      ],
+      "label": "Asteroid Rogue Drone Commander Frigate",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "asteroid_rogue_drone_cruiser_757",
+      "gids": [
+        757
+      ],
+      "label": "Asteroid Rogue Drone Cruiser",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "asteroid_rogue_drone_destroyer_758",
+      "gids": [
+        758
+      ],
+      "label": "Asteroid Rogue Drone Destroyer",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "asteroid_rogue_drone_frigate_759",
+      "gids": [
+        759
+      ],
+      "label": "Asteroid Rogue Drone Frigate",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "asteroid_rogue_drone_hauler_760",
+      "gids": [
+        760
+      ],
+      "label": "Asteroid Rogue Drone Hauler",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "asteroid_rogue_drone_officer_1174",
+      "gids": [
+        1174
+      ],
+      "label": "Asteroid Rogue Drone Officer",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "asteroid_rogue_drone_supercarrier_1692",
+      "gids": [
+        1692
+      ],
+      "label": "Asteroid Rogue Drone Supercarrier",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "asteroid_rogue_drone_swarm_761",
+      "gids": [
+        761
+      ],
+      "label": "Asteroid Rogue Drone Swarm",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "combat_drone_100",
+      "gids": [
+        100
+      ],
+      "label": "Combat Drone",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "concord_drone_301",
+      "gids": [
+        301
+      ],
+      "label": "Concord Drone",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "convoy_drone_298",
+      "gids": [
+        298
+      ],
+      "label": "Convoy Drone",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "deadspace_rogue_drone_battlecruiser_801",
+      "gids": [
+        801
+      ],
+      "label": "Deadspace Rogue Drone BattleCruiser",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "deadspace_rogue_drone_battleship_802",
+      "gids": [
+        802
+      ],
+      "label": "Deadspace Rogue Drone Battleship",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "deadspace_rogue_drone_cruiser_803",
+      "gids": [
+        803
+      ],
+      "label": "Deadspace Rogue Drone Cruiser",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "deadspace_rogue_drone_destroyer_804",
+      "gids": [
+        804
+      ],
+      "label": "Deadspace Rogue Drone Destroyer",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "deadspace_rogue_drone_frigate_805",
+      "gids": [
+        805
+      ],
+      "label": "Deadspace Rogue Drone Frigate",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "deadspace_rogue_drone_swarm_806",
+      "gids": [
+        806
+      ],
+      "label": "Deadspace Rogue Drone Swarm",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "electronic_warfare_drone_639",
+      "gids": [
+        639
+      ],
+      "label": "Electronic Warfare Drone",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "energy_neutralizer_drone_544",
+      "gids": [
+        544
+      ],
+      "label": "Energy Neutralizer Drone",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "fabricator_rogue_drones_5032",
+      "gids": [
+        5032
+      ],
+      "label": "Fabricator Rogue Drones",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "faction_drone_288",
+      "gids": [
+        288
+      ],
+      "label": "Faction Drone",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "fighter_bomber_1023",
+      "gids": [
+        1023
+      ],
+      "label": "Fighter Bomber",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "fighter_drone_549",
+      "gids": [
+        549
+      ],
+      "label": "Fighter Drone",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "heavy_fighter_1653",
+      "gids": [
+        1653
+      ],
+      "label": "Heavy Fighter",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "irregular_drone_1452",
+      "gids": [
+        1452
+      ],
+      "label": "Irregular Drone",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "irregular_ew_drone_1453",
+      "gids": [
+        1453
+      ],
+      "label": "Irregular EW Drone",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "irregular_fighter_1454",
+      "gids": [
+        1454
+      ],
+      "label": "Irregular Fighter",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "irregular_fighter_squadron_1455",
+      "gids": [
+        1455
+      ],
+      "label": "Irregular Fighter Squadron",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "lco_drone_279",
+      "gids": [
+        279
+      ],
+      "label": "LCO Drone",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "light_fighter_1652",
+      "gids": [
+        1652
+      ],
+      "label": "Light Fighter",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "logistic_drone_640",
+      "gids": [
+        640
+      ],
+      "label": "Logistic Drone",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "mining_drone_101",
+      "gids": [
+        101
+      ],
+      "label": "Mining Drone",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "mission_drone_337",
+      "gids": [
+        337
+      ],
+      "label": "Mission Drone",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "mission_fighter_drone_861",
+      "gids": [
+        861
+      ],
+      "label": "Mission Fighter Drone",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "pirate_drone_185",
+      "gids": [
+        185
+      ],
+      "label": "Pirate Drone",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "police_drone_182",
+      "gids": [
+        182
+      ],
+      "label": "Police Drone",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "rogue_drone_287",
+      "gids": [
+        287
+      ],
+      "label": "Rogue Drone",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "rogue_drone_entities_4037",
+      "gids": [
+        4037
+      ],
+      "label": "Rogue Drone Entities",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "salvage_drone_1159",
+      "gids": [
+        1159
+      ],
+      "label": "Salvage Drone",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "stasis_webifying_drone_641",
+      "gids": [
+        641
+      ],
+      "label": "Stasis Webifying Drone",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "structure_heavy_fighter_4779",
+      "gids": [
+        4779
+      ],
+      "label": "Structure Heavy Fighter",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "structure_light_fighter_4777",
+      "gids": [
+        4777
+      ],
+      "label": "Structure Light Fighter",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "structure_support_fighter_4778",
+      "gids": [
+        4778
+      ],
+      "label": "Structure Support Fighter",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "support_fighter_1537",
+      "gids": [
+        1537
+      ],
+      "label": "Support Fighter",
+      "cat": "Drones & Fighters"
+    },
+    {
+      "id": "asteroid_angel_cartel_officer_553",
+      "gids": [
+        553
+      ],
+      "label": "Asteroid Angel Cartel Officer",
+      "cat": "NPCs"
+    },
+    {
+      "id": "asteroid_blood_raiders_officer_559",
+      "gids": [
+        559
+      ],
+      "label": "Asteroid Blood Raiders Officer",
+      "cat": "NPCs"
+    },
+    {
+      "id": "asteroid_guristas_officer_564",
+      "gids": [
+        564
+      ],
+      "label": "Asteroid Guristas Officer",
+      "cat": "NPCs"
+    },
+    {
+      "id": "asteroid_sansha_s_nation_officer_569",
+      "gids": [
+        569
+      ],
+      "label": "Asteroid Sansha's Nation Officer",
+      "cat": "NPCs"
+    },
+    {
+      "id": "asteroid_serpentis_officer_574",
+      "gids": [
+        574
+      ],
+      "label": "Asteroid Serpentis Officer",
+      "cat": "NPCs"
+    },
+    {
+      "id": "convoy_297",
+      "gids": [
+        297
+      ],
+      "label": "Convoy",
+      "cat": "NPCs"
+    },
+    {
+      "id": "deadspace_asteroids_2006",
+      "gids": [
+        2006
+      ],
+      "label": "Deadspace Asteroids",
+      "cat": "NPCs"
+    },
+    {
+      "id": "deadspace_overseer_435",
+      "gids": [
+        435
+      ],
+      "label": "Deadspace Overseer",
+      "cat": "NPCs"
+    },
+    {
+      "id": "deadspace_overseer_s_belongings_496",
+      "gids": [
+        496
+      ],
+      "label": "Deadspace Overseer's Belongings",
+      "cat": "NPCs"
+    },
+    {
+      "id": "deadspace_overseer_s_sentry_495",
+      "gids": [
+        495
+      ],
+      "label": "Deadspace Overseer's Sentry",
+      "cat": "NPCs"
+    },
+    {
+      "id": "deadspace_overseer_s_structure_494",
+      "gids": [
+        494
+      ],
+      "label": "Deadspace Overseer's Structure",
+      "cat": "NPCs"
+    },
+    {
+      "id": "deadspace_sleeper_awakened_defender_984",
+      "gids": [
+        984
+      ],
+      "label": "Deadspace Sleeper Awakened Defender",
+      "cat": "NPCs"
+    },
+    {
+      "id": "deadspace_sleeper_awakened_patroller_985",
+      "gids": [
+        985
+      ],
+      "label": "Deadspace Sleeper Awakened Patroller",
+      "cat": "NPCs"
+    },
+    {
+      "id": "deadspace_sleeper_awakened_sentinel_960",
+      "gids": [
+        960
+      ],
+      "label": "Deadspace Sleeper Awakened Sentinel",
+      "cat": "NPCs"
+    },
+    {
+      "id": "deadspace_sleeper_emergent_defender_986",
+      "gids": [
+        986
+      ],
+      "label": "Deadspace Sleeper Emergent Defender",
+      "cat": "NPCs"
+    },
+    {
+      "id": "deadspace_sleeper_emergent_patroller_987",
+      "gids": [
+        987
+      ],
+      "label": "Deadspace Sleeper Emergent Patroller",
+      "cat": "NPCs"
+    },
+    {
+      "id": "deadspace_sleeper_emergent_sentinel_961",
+      "gids": [
+        961
+      ],
+      "label": "Deadspace Sleeper Emergent Sentinel",
+      "cat": "NPCs"
+    },
+    {
+      "id": "deadspace_sleeper_sleepless_defender_982",
+      "gids": [
+        982
+      ],
+      "label": "Deadspace Sleeper Sleepless Defender",
+      "cat": "NPCs"
+    },
+    {
+      "id": "deadspace_sleeper_sleepless_patroller_983",
+      "gids": [
+        983
+      ],
+      "label": "Deadspace Sleeper Sleepless Patroller",
+      "cat": "NPCs"
+    },
+    {
+      "id": "deadspace_sleeper_sleepless_sentinel_959",
+      "gids": [
+        959
+      ],
+      "label": "Deadspace Sleeper Sleepless Sentinel",
+      "cat": "NPCs"
+    },
+    {
+      "id": "deadspace_sleeper_upgraded_avenger_1529",
+      "gids": [
+        1529
+      ],
+      "label": "Deadspace Sleeper Upgraded Avenger",
+      "cat": "NPCs"
+    },
+    {
+      "id": "drifter_entities_4035",
+      "gids": [
+        4035
+      ],
+      "label": "Drifter Entities",
+      "cat": "NPCs"
+    },
+    {
+      "id": "drifter_reinforcements_1956",
+      "gids": [
+        1956
+      ],
+      "label": "Drifter Reinforcements",
+      "cat": "NPCs"
+    },
+    {
+      "id": "hidden_zenith_drifters_1788",
+      "gids": [
+        1788
+      ],
+      "label": "Hidden Zenith Drifters",
+      "cat": "NPCs"
+    },
+    {
+      "id": "incursion_sansha_s_nation_capital_1052",
+      "gids": [
+        1052
+      ],
+      "label": "Incursion Sansha's Nation Capital",
+      "cat": "NPCs"
+    },
+    {
+      "id": "incursion_sansha_s_nation_industrial_1051",
+      "gids": [
+        1051
+      ],
+      "label": "Incursion Sansha's Nation Industrial",
+      "cat": "NPCs"
+    },
+    {
+      "id": "insurgency_roaming_pirates_4637",
+      "gids": [
+        4637
+      ],
+      "label": "Insurgency Roaming Pirates",
+      "cat": "NPCs"
+    },
+    {
+      "id": "mission_amarr_empire_other_670",
+      "gids": [
+        670
+      ],
+      "label": "Mission Amarr Empire Other",
+      "cat": "NPCs"
+    },
+    {
+      "id": "mission_caldari_state_other_675",
+      "gids": [
+        675
+      ],
+      "label": "Mission Caldari State Other",
+      "cat": "NPCs"
+    },
+    {
+      "id": "mission_concord_other_698",
+      "gids": [
+        698
+      ],
+      "label": "Mission CONCORD Other",
+      "cat": "NPCs"
+    },
+    {
+      "id": "mission_container_952",
+      "gids": [
+        952
+      ],
+      "label": "Mission Container",
+      "cat": "NPCs"
+    },
+    {
+      "id": "mission_faction_transports_875",
+      "gids": [
+        875
+      ],
+      "label": "Mission Faction Transports",
+      "cat": "NPCs"
+    },
+    {
+      "id": "mission_gallente_federation_other_682",
+      "gids": [
+        682
+      ],
+      "label": "Mission Gallente Federation Other",
+      "cat": "NPCs"
+    },
+    {
+      "id": "mission_khanid_other_692",
+      "gids": [
+        692
+      ],
+      "label": "Mission Khanid Other",
+      "cat": "NPCs"
+    },
+    {
+      "id": "mission_minmatar_republic_other_686",
+      "gids": [
+        686
+      ],
+      "label": "Mission Minmatar Republic Other",
+      "cat": "NPCs"
+    },
+    {
+      "id": "mission_mordu_other_704",
+      "gids": [
+        704
+      ],
+      "label": "Mission Mordu Other",
+      "cat": "NPCs"
+    },
+    {
+      "id": "mission_thukker_other_827",
+      "gids": [
+        827
+      ],
+      "label": "Mission Thukker Other",
+      "cat": "NPCs"
+    },
+    {
+      "id": "pirate_entities_4636",
+      "gids": [
+        4636
+      ],
+      "label": "Pirate Entities",
+      "cat": "NPCs"
+    },
+    {
+      "id": "pirate_forward_operating_base_4644",
+      "gids": [
+        4644
+      ],
+      "label": "Pirate Forward Operating Base",
+      "cat": "NPCs"
+    },
+    {
+      "id": "pirate_spawners_4828",
+      "gids": [
+        4828
+      ],
+      "label": "Pirate Spawners",
+      "cat": "NPCs"
+    },
+    {
+      "id": "sleeper_entities_4036",
+      "gids": [
+        4036
+      ],
+      "label": "Sleeper Entities",
+      "cat": "NPCs"
+    },
+    {
+      "id": "citadel_1657",
+      "gids": [
+        1657
+      ],
+      "label": "Citadel",
+      "cat": "Structures"
+    },
+    {
+      "id": "control_tower_365",
+      "gids": [
+        365
+      ],
+      "label": "Control Tower",
+      "cat": "Structures"
+    },
+    {
+      "id": "disruptable_station_services_874",
+      "gids": [
+        874
+      ],
+      "label": "Disruptable Station Services",
+      "cat": "Structures"
+    },
+    {
+      "id": "encounter_surveillance_system_1273",
+      "gids": [
+        1273
+      ],
+      "label": "Encounter Surveillance System",
+      "cat": "Structures"
+    },
+    {
+      "id": "encounter_surveillance_system_4079",
+      "gids": [
+        4079
+      ],
+      "label": "Encounter Surveillance System",
+      "cat": "Structures"
+    },
+    {
+      "id": "engineering_complex_1404",
+      "gids": [
+        1404
+      ],
+      "label": "Engineering Complex",
+      "cat": "Structures"
+    },
+    {
+      "id": "fw_infrastructure_hub_925",
+      "gids": [
+        925
+      ],
+      "label": "FW Infrastructure Hub",
+      "cat": "Structures"
+    },
+    {
+      "id": "fw_listening_outpost_4499",
+      "gids": [
+        4499
+      ],
+      "label": "FW Listening Outpost",
+      "cat": "Structures"
+    },
+    {
+      "id": "fw_propaganda_broadcast_structure_4477",
+      "gids": [
+        4477
+      ],
+      "label": "FW Propaganda Broadcast Structure",
+      "cat": "Structures"
+    },
+    {
+      "id": "homefront_operations_structure_4576",
+      "gids": [
+        4576
+      ],
+      "label": "Homefront Operations Structure",
+      "cat": "Structures"
+    },
+    {
+      "id": "interstellar_shipcaster_4549",
+      "gids": [
+        4549
+      ],
+      "label": "Interstellar Shipcaster",
+      "cat": "Structures"
+    },
+    {
+      "id": "interstellar_shipcaster_beacon_4547",
+      "gids": [
+        4547
+      ],
+      "label": "Interstellar Shipcaster Beacon",
+      "cat": "Structures"
+    },
+    {
+      "id": "irregular_structure_1927",
+      "gids": [
+        1927
+      ],
+      "label": "Irregular Structure",
+      "cat": "Structures"
+    },
+    {
+      "id": "large_collidable_structure_319",
+      "gids": [
+        319
+      ],
+      "label": "Large Collidable Structure",
+      "cat": "Structures"
+    },
+    {
+      "id": "observatory_structures_1312",
+      "gids": [
+        1312
+      ],
+      "label": "Observatory Structures",
+      "cat": "Structures"
+    },
+    {
+      "id": "orbital_infrastructure_1025",
+      "gids": [
+        1025
+      ],
+      "label": "Orbital Infrastructure",
+      "cat": "Structures"
+    },
+    {
+      "id": "refinery_1406",
+      "gids": [
+        1406
+      ],
+      "label": "Refinery",
+      "cat": "Structures"
+    },
+    {
+      "id": "shipcaster_beacon_constructor_4548",
+      "gids": [
+        4548
+      ],
+      "label": "Shipcaster Beacon Constructor",
+      "cat": "Structures"
+    },
+    {
+      "id": "sovereignty_blockade_unit_1005",
+      "gids": [
+        1005
+      ],
+      "label": "Sovereignty Blockade Unit",
+      "cat": "Structures"
+    },
+    {
+      "id": "sovereignty_hub_1012",
+      "gids": [
+        1012
+      ],
+      "label": "Sovereignty Hub",
+      "cat": "Structures"
+    },
+    {
+      "id": "station_15",
+      "gids": [
+        15
+      ],
+      "label": "Station",
+      "cat": "Structures"
+    },
+    {
+      "id": "station_conversion_monuments_1998",
+      "gids": [
+        1998
+      ],
+      "label": "Station Conversion Monuments",
+      "cat": "Structures"
+    },
+    {
+      "id": "station_improvement_platform_836",
+      "gids": [
+        836
+      ],
+      "label": "Station Improvement Platform",
+      "cat": "Structures"
+    },
+    {
+      "id": "station_upgrade_platform_835",
+      "gids": [
+        835
+      ],
+      "label": "Station Upgrade Platform",
+      "cat": "Structures"
+    },
+    {
+      "id": "structure_entities_1872",
+      "gids": [
+        1872
+      ],
+      "label": "Structure Entities",
+      "cat": "Structures"
+    },
+    {
+      "id": "temporary_collidable_structure_4073",
+      "gids": [
+        4073
+      ],
+      "label": "Temporary Collidable Structure",
+      "cat": "Structures"
+    },
+    {
+      "id": "territorial_claim_unit_1003",
+      "gids": [
+        1003
+      ],
+      "label": "Territorial Claim Unit",
+      "cat": "Structures"
+    },
+    {
+      "id": "upwell_cyno_beacon_2017",
+      "gids": [
+        2017
+      ],
+      "label": "Upwell Cyno Beacon",
+      "cat": "Structures"
+    },
+    {
+      "id": "upwell_jump_bridge_1408",
+      "gids": [
+        1408
+      ],
+      "label": "Upwell Jump Bridge",
+      "cat": "Structures"
+    },
+    {
+      "id": "engineering_complex_1876",
+      "gids": [
+        1876
+      ],
+      "label": "♦ Engineering Complex",
+      "cat": "Structures"
+    },
+    {
+      "id": "abyssal_filaments_1979",
+      "gids": [
+        1979
+      ],
+      "label": "Abyssal Filaments",
+      "cat": "Deployables"
+    },
+    {
+      "id": "covert_cynosural_field_897",
+      "gids": [
+        897
+      ],
+      "label": "Covert Cynosural Field",
+      "cat": "Deployables"
+    },
+    {
+      "id": "cynosural_fields_2020",
+      "gids": [
+        2020
+      ],
+      "label": "Cynosural Fields",
+      "cat": "Deployables"
+    },
+    {
+      "id": "deployable_advertisement_2005",
+      "gids": [
+        2005
+      ],
+      "label": "Deployable Advertisement",
+      "cat": "Deployables"
+    },
+    {
+      "id": "filament_trace_1991",
+      "gids": [
+        1991
+      ],
+      "label": "Filament Trace",
+      "cat": "Deployables"
+    },
+    {
+      "id": "interdiction_burst_probes_4088",
+      "gids": [
+        4088
+      ],
+      "label": "Interdiction Burst Probes",
+      "cat": "Deployables"
+    },
+    {
+      "id": "interdiction_probe_548",
+      "gids": [
+        548
+      ],
+      "label": "Interdiction Probe",
+      "cat": "Deployables"
+    },
+    {
+      "id": "mobile_analysis_beacon_4137",
+      "gids": [
+        4137
+      ],
+      "label": "Mobile Analysis Beacon",
+      "cat": "Deployables"
+    },
+    {
+      "id": "mobile_cyno_inhibitor_1249",
+      "gids": [
+        1249
+      ],
+      "label": "Mobile Cyno Inhibitor",
+      "cat": "Deployables"
+    },
+    {
+      "id": "mobile_cynosural_beacon_4093",
+      "gids": [
+        4093
+      ],
+      "label": "Mobile Cynosural Beacon",
+      "cat": "Deployables"
+    },
+    {
+      "id": "mobile_decoy_unit_1274",
+      "gids": [
+        1274
+      ],
+      "label": "Mobile Decoy Unit",
+      "cat": "Deployables"
+    },
+    {
+      "id": "mobile_depot_1246",
+      "gids": [
+        1246
+      ],
+      "label": "Mobile Depot",
+      "cat": "Deployables"
+    },
+    {
+      "id": "mobile_hybrid_sentry_449",
+      "gids": [
+        449
+      ],
+      "label": "Mobile Hybrid Sentry",
+      "cat": "Deployables"
+    },
+    {
+      "id": "mobile_jump_disruptor_1149",
+      "gids": [
+        1149
+      ],
+      "label": "Mobile Jump Disruptor",
+      "cat": "Deployables"
+    },
+    {
+      "id": "mobile_laser_sentry_430",
+      "gids": [
+        430
+      ],
+      "label": "Mobile Laser Sentry",
+      "cat": "Deployables"
+    },
+    {
+      "id": "mobile_micro_jump_unit_1276",
+      "gids": [
+        1276
+      ],
+      "label": "Mobile Micro Jump Unit",
+      "cat": "Deployables"
+    },
+    {
+      "id": "mobile_missile_sentry_417",
+      "gids": [
+        417
+      ],
+      "label": "Mobile Missile Sentry",
+      "cat": "Deployables"
+    },
+    {
+      "id": "mobile_observatory_4107",
+      "gids": [
+        4107
+      ],
+      "label": "Mobile Observatory",
+      "cat": "Deployables"
+    },
+    {
+      "id": "mobile_phase_anchor_4913",
+      "gids": [
+        4913
+      ],
+      "label": "Mobile Phase Anchor",
+      "cat": "Deployables"
+    },
+    {
+      "id": "mobile_projectile_sentry_426",
+      "gids": [
+        426
+      ],
+      "label": "Mobile Projectile Sentry",
+      "cat": "Deployables"
+    },
+    {
+      "id": "mobile_reactor_438",
+      "gids": [
+        438
+      ],
+      "label": "Mobile Reactor",
+      "cat": "Deployables"
+    },
+    {
+      "id": "mobile_scan_inhibitor_1275",
+      "gids": [
+        1275
+      ],
+      "label": "Mobile Scan Inhibitor",
+      "cat": "Deployables"
+    },
+    {
+      "id": "mobile_sentry_gun_336",
+      "gids": [
+        336
+      ],
+      "label": "Mobile Sentry Gun",
+      "cat": "Deployables"
+    },
+    {
+      "id": "mobile_siphon_unit_1247",
+      "gids": [
+        1247
+      ],
+      "label": "Mobile Siphon Unit",
+      "cat": "Deployables"
+    },
+    {
+      "id": "mobile_tractor_unit_1250",
+      "gids": [
+        1250
+      ],
+      "label": "Mobile Tractor Unit",
+      "cat": "Deployables"
+    },
+    {
+      "id": "mobile_vault_1297",
+      "gids": [
+        1297
+      ],
+      "label": "Mobile Vault",
+      "cat": "Deployables"
+    },
+    {
+      "id": "mobile_warp_disruptor_361",
+      "gids": [
+        361
+      ],
+      "label": "Mobile Warp Disruptor",
+      "cat": "Deployables"
+    },
+    {
+      "id": "scanner_probe_479",
+      "gids": [
+        479
+      ],
+      "label": "Scanner Probe",
+      "cat": "Deployables"
+    },
+    {
+      "id": "survey_probe_492",
+      "gids": [
+        492
+      ],
+      "label": "Survey Probe",
+      "cat": "Deployables"
+    },
+    {
+      "id": "asteroid_belt_9",
+      "gids": [
+        9
+      ],
+      "label": "Asteroid Belt",
+      "cat": "Celestials"
+    },
+    {
+      "id": "beacon_310",
+      "gids": [
+        310
+      ],
+      "label": "Beacon",
+      "cat": "Celestials"
+    },
+    {
+      "id": "common_moon_asteroids_1920",
+      "gids": [
+        1920
+      ],
+      "label": "Common Moon Asteroids",
+      "cat": "Celestials"
+    },
+    {
+      "id": "destructible_effect_beacon_4033",
+      "gids": [
+        4033
+      ],
+      "label": "Destructible Effect Beacon",
+      "cat": "Celestials"
+    },
+    {
+      "id": "effect_beacon_920",
+      "gids": [
+        920
+      ],
+      "label": "Effect Beacon",
+      "cat": "Celestials"
+    },
+    {
+      "id": "exceptional_moon_asteroids_1923",
+      "gids": [
+        1923
+      ],
+      "label": "Exceptional Moon Asteroids",
+      "cat": "Celestials"
+    },
+    {
+      "id": "harvestable_cloud_711",
+      "gids": [
+        711
+      ],
+      "label": "Harvestable Cloud",
+      "cat": "Celestials"
+    },
+    {
+      "id": "invisible_beacon_4055",
+      "gids": [
+        4055
+      ],
+      "label": "Invisible Beacon",
+      "cat": "Celestials"
+    },
+    {
+      "id": "local_beacon_4825",
+      "gids": [
+        4825
+      ],
+      "label": "Local Beacon",
+      "cat": "Celestials"
+    },
+    {
+      "id": "managed_asteroid_belt_4930",
+      "gids": [
+        4930
+      ],
+      "label": "Managed Asteroid Belt",
+      "cat": "Celestials"
+    },
+    {
+      "id": "moon_8",
+      "gids": [
+        8
+      ],
+      "label": "Moon",
+      "cat": "Celestials"
+    },
+    {
+      "id": "moon_mining_416",
+      "gids": [
+        416
+      ],
+      "label": "Moon Mining",
+      "cat": "Celestials"
+    },
+    {
+      "id": "moon_mining_beacon_1915",
+      "gids": [
+        1915
+      ],
+      "label": "Moon Mining Beacon",
+      "cat": "Celestials"
+    },
+    {
+      "id": "planet_7",
+      "gids": [
+        7
+      ],
+      "label": "Planet",
+      "cat": "Celestials"
+    },
+    {
+      "id": "rare_moon_asteroids_1922",
+      "gids": [
+        1922
+      ],
+      "label": "Rare Moon Asteroids",
+      "cat": "Celestials"
+    },
+    {
+      "id": "sun_6",
+      "gids": [
+        6
+      ],
+      "label": "Sun",
+      "cat": "Celestials"
+    },
+    {
+      "id": "super_weapon_beacon_1704",
+      "gids": [
+        1704
+      ],
+      "label": "Super Weapon Beacon",
+      "cat": "Celestials"
+    },
+    {
+      "id": "temporary_cloud_335",
+      "gids": [
+        335
+      ],
+      "label": "Temporary Cloud",
+      "cat": "Celestials"
+    },
+    {
+      "id": "ubiquitous_moon_asteroids_1884",
+      "gids": [
+        1884
+      ],
+      "label": "Ubiquitous Moon Asteroids",
+      "cat": "Celestials"
+    },
+    {
+      "id": "uncommon_moon_asteroids_1921",
+      "gids": [
+        1921
+      ],
+      "label": "Uncommon Moon Asteroids",
+      "cat": "Celestials"
+    },
+    {
+      "id": "upwell_moon_drill_4744",
+      "gids": [
+        4744
+      ],
+      "label": "Upwell Moon Drill",
+      "cat": "Celestials"
+    },
+    {
+      "id": "wormhole_988",
+      "gids": [
+        988
+      ],
+      "label": "Wormhole",
+      "cat": "Celestials"
+    },
+    {
+      "id": "audit_log_secure_container_448",
+      "gids": [
+        448
+      ],
+      "label": "Audit Log Secure Container",
+      "cat": "Wrecks & Containers"
+    },
+    {
+      "id": "cargo_container_12",
+      "gids": [
+        12
+      ],
+      "label": "Cargo Container",
+      "cat": "Wrecks & Containers"
+    },
+    {
+      "id": "freight_container_649",
+      "gids": [
+        649
+      ],
+      "label": "Freight Container",
+      "cat": "Wrecks & Containers"
+    },
+    {
+      "id": "irregular_container_1928",
+      "gids": [
+        1928
+      ],
+      "label": "Irregular Container",
+      "cat": "Wrecks & Containers"
+    },
+    {
+      "id": "scatter_container_1207",
+      "gids": [
+        1207
+      ],
+      "label": "Scatter Container",
+      "cat": "Wrecks & Containers"
+    },
+    {
+      "id": "secure_cargo_container_340",
+      "gids": [
+        340
+      ],
+      "label": "Secure Cargo Container",
+      "cat": "Wrecks & Containers"
+    },
+    {
+      "id": "spawn_container_306",
+      "gids": [
+        306
+      ],
+      "label": "Spawn Container",
+      "cat": "Wrecks & Containers"
+    },
+    {
+      "id": "wreck_186",
+      "gids": [
+        186
+      ],
+      "label": "Wreck",
+      "cat": "Wrecks & Containers"
+    },
+    {
+      "id": "insurgency_mining_ship_4673",
+      "gids": [
+        4673
+      ],
+      "label": "Insurgency Mining Ship",
+      "cat": "FW / Insurgency"
+    },
+    {
+      "id": "insurgency_roaming_enforcers_4638",
+      "gids": [
+        4638
+      ],
+      "label": "Insurgency Roaming Enforcers",
+      "cat": "FW / Insurgency"
+    },
+    {
+      "id": "abyssal_hazards_1971",
+      "gids": [
+        1971
+      ],
+      "label": "Abyssal Hazards",
+      "cat": "Other"
+    },
+    {
+      "id": "abyssal_spaceship_entities_1982",
+      "gids": [
+        1982
+      ],
+      "label": "Abyssal Spaceship Entities",
+      "cat": "Other"
+    },
+    {
+      "id": "administration_hub_1409",
+      "gids": [
+        1409
+      ],
+      "label": "Administration Hub",
+      "cat": "Other"
+    },
+    {
+      "id": "advertisement_center_1410",
+      "gids": [
+        1410
+      ],
+      "label": "Advertisement Center",
+      "cat": "Other"
+    },
+    {
+      "id": "agents_in_space_517",
+      "gids": [
+        517
+      ],
+      "label": "Agents in Space",
+      "cat": "Other"
+    },
+    {
+      "id": "air_entities_i_4106",
+      "gids": [
+        4106
+      ],
+      "label": "AIR Entities I",
+      "cat": "Other"
+    },
+    {
+      "id": "air_entities_ii_4128",
+      "gids": [
+        4128
+      ],
+      "label": "AIR Entities II",
+      "cat": "Other"
+    },
+    {
+      "id": "air_ore_asteroid_resources_4161",
+      "gids": [
+        4161
+      ],
+      "label": "AIR Ore Asteroid Resources",
+      "cat": "Other"
+    },
+    {
+      "id": "amarr_navy_roaming_capital_1412",
+      "gids": [
+        1412
+      ],
+      "label": "Amarr Navy Roaming Capital",
+      "cat": "Other"
+    },
+    {
+      "id": "arkonor_450",
+      "gids": [
+        450
+      ],
+      "label": "Arkonor",
+      "cat": "Other"
+    },
+    {
+      "id": "assembly_array_397",
+      "gids": [
+        397
+      ],
+      "label": "Assembly Array",
+      "cat": "Other"
+    },
+    {
+      "id": "bezdnacine_4031",
+      "gids": [
+        4031
+      ],
+      "label": "Bezdnacine",
+      "cat": "Other"
+    },
+    {
+      "id": "billboard_323",
+      "gids": [
+        323
+      ],
+      "label": "Billboard",
+      "cat": "Other"
+    },
+    {
+      "id": "biomass_14",
+      "gids": [
+        14
+      ],
+      "label": "Biomass",
+      "cat": "Other"
+    },
+    {
+      "id": "bistot_451",
+      "gids": [
+        451
+      ],
+      "label": "Bistot",
+      "cat": "Other"
+    },
+    {
+      "id": "blockade_runner_1202",
+      "gids": [
+        1202
+      ],
+      "label": "Blockade Runner",
+      "cat": "Other"
+    },
+    {
+      "id": "bomb_90",
+      "gids": [
+        90
+      ],
+      "label": "Bomb",
+      "cat": "Other"
+    },
+    {
+      "id": "bomb_ecm_863",
+      "gids": [
+        863
+      ],
+      "label": "Bomb ECM",
+      "cat": "Other"
+    },
+    {
+      "id": "bomb_energy_864",
+      "gids": [
+        864
+      ],
+      "label": "Bomb Energy",
+      "cat": "Other"
+    },
+    {
+      "id": "capture_point_922",
+      "gids": [
+        922
+      ],
+      "label": "Capture Point",
+      "cat": "Other"
+    },
+    {
+      "id": "citizen_ships_2001",
+      "gids": [
+        2001
+      ],
+      "label": "Citizen Ships",
+      "cat": "Other"
+    },
+    {
+      "id": "compressed_gas_4168",
+      "gids": [
+        4168
+      ],
+      "label": "Compressed Gas",
+      "cat": "Other"
+    },
+    {
+      "id": "compression_array_1282",
+      "gids": [
+        1282
+      ],
+      "label": "Compression Array",
+      "cat": "Other"
+    },
+    {
+      "id": "construction_platform_307",
+      "gids": [
+        307
+      ],
+      "label": "Construction Platform",
+      "cat": "Other"
+    },
+    {
+      "id": "control_point_4494",
+      "gids": [
+        4494
+      ],
+      "label": "Control Point",
+      "cat": "Other"
+    },
+    {
+      "id": "corporate_hangar_array_471",
+      "gids": [
+        471
+      ],
+      "label": "Corporate Hangar Array",
+      "cat": "Other"
+    },
+    {
+      "id": "covert_ops_830",
+      "gids": [
+        830
+      ],
+      "label": "Covert Ops",
+      "cat": "Other"
+    },
+    {
+      "id": "crokite_452",
+      "gids": [
+        452
+      ],
+      "label": "Crokite",
+      "cat": "Other"
+    },
+    {
+      "id": "customs_official_446",
+      "gids": [
+        446
+      ],
+      "label": "Customs Official",
+      "cat": "Other"
+    },
+    {
+      "id": "cynosural_generator_array_838",
+      "gids": [
+        838
+      ],
+      "label": "Cynosural Generator Array",
+      "cat": "Other"
+    },
+    {
+      "id": "cynosural_system_jammer_839",
+      "gids": [
+        839
+      ],
+      "label": "Cynosural System Jammer",
+      "cat": "Other"
+    },
+    {
+      "id": "dark_ochre_453",
+      "gids": [
+        453
+      ],
+      "label": "Dark Ochre",
+      "cat": "Other"
+    },
+    {
+      "id": "deep_space_transport_380",
+      "gids": [
+        380
+      ],
+      "label": "Deep Space Transport",
+      "cat": "Other"
+    },
+    {
+      "id": "defense_bunkers_1004",
+      "gids": [
+        1004
+      ],
+      "label": "Defense Bunkers",
+      "cat": "Other"
+    },
+    {
+      "id": "destructible_agents_in_space_715",
+      "gids": [
+        715
+      ],
+      "label": "Destructible Agents In Space",
+      "cat": "Other"
+    },
+    {
+      "id": "destructible_sentry_gun_383",
+      "gids": [
+        383
+      ],
+      "label": "Destructible Sentry Gun",
+      "cat": "Other"
+    },
+    {
+      "id": "disrupted_gate_4081",
+      "gids": [
+        4081
+      ],
+      "label": "Disrupted Gate",
+      "cat": "Other"
+    },
+    {
+      "id": "ducinium_4516",
+      "gids": [
+        4516
+      ],
+      "label": "Ducinium",
+      "cat": "Other"
+    },
+    {
+      "id": "edencom_entities_4034",
+      "gids": [
+        4034
+      ],
+      "label": "EDENCOM Entities",
+      "cat": "Other"
+    },
+    {
+      "id": "eifyrium_4515",
+      "gids": [
+        4515
+      ],
+      "label": "Eifyrium",
+      "cat": "Other"
+    },
+    {
+      "id": "electronic_attack_ship_893",
+      "gids": [
+        893
+      ],
+      "label": "Electronic Attack Ship",
+      "cat": "Other"
+    },
+    {
+      "id": "electronic_warfare_battery_439",
+      "gids": [
+        439
+      ],
+      "label": "Electronic Warfare Battery",
+      "cat": "Other"
+    },
+    {
+      "id": "empire_asteroids_1911",
+      "gids": [
+        1911
+      ],
+      "label": "Empire Asteroids",
+      "cat": "Other"
+    },
+    {
+      "id": "energy_neutralizing_battery_837",
+      "gids": [
+        837
+      ],
+      "label": "Energy Neutralizing Battery",
+      "cat": "Other"
+    },
+    {
+      "id": "entosis_command_node_1316",
+      "gids": [
+        1316
+      ],
+      "label": "Entosis Command Node",
+      "cat": "Other"
+    },
+    {
+      "id": "exotic_artefact_4070",
+      "gids": [
+        4070
+      ],
+      "label": "Exotic Artefact",
+      "cat": "Other"
+    },
+    {
+      "id": "flashpoint_1071",
+      "gids": [
+        1071
+      ],
+      "label": "Flashpoint",
+      "cat": "Other"
+    },
+    {
+      "id": "fluorite_2024",
+      "gids": [
+        2024
+      ],
+      "label": "Fluorite",
+      "cat": "Other"
+    },
+    {
+      "id": "force_field_411",
+      "gids": [
+        411
+      ],
+      "label": "Force Field",
+      "cat": "Other"
+    },
+    {
+      "id": "ghost_sites_mordu_s_legion_1288",
+      "gids": [
+        1288
+      ],
+      "label": "Ghost Sites Mordu's Legion",
+      "cat": "Other"
+    },
+    {
+      "id": "gneiss_467",
+      "gids": [
+        467
+      ],
+      "label": "Gneiss",
+      "cat": "Other"
+    },
+    {
+      "id": "griemeer_4759",
+      "gids": [
+        4759
+      ],
+      "label": "Griemeer",
+      "cat": "Other"
+    },
+    {
+      "id": "group_1211_1211",
+      "gids": [
+        1211
+      ],
+      "label": "Group 1211",
+      "cat": "Other"
+    },
+    {
+      "id": "group_187_187",
+      "gids": [
+        187
+      ],
+      "label": "Group 187",
+      "cat": "Other"
+    },
+    {
+      "id": "group_188_188",
+      "gids": [
+        188
+      ],
+      "label": "Group 188",
+      "cat": "Other"
+    },
+    {
+      "id": "group_189_189",
+      "gids": [
+        189
+      ],
+      "label": "Group 189",
+      "cat": "Other"
+    },
+    {
+      "id": "group_1904_1904",
+      "gids": [
+        1904
+      ],
+      "label": "Group 1904",
+      "cat": "Other"
+    },
+    {
+      "id": "group_1905_1905",
+      "gids": [
+        1905
+      ],
+      "label": "Group 1905",
+      "cat": "Other"
+    },
+    {
+      "id": "group_1906_1906",
+      "gids": [
+        1906
+      ],
+      "label": "Group 1906",
+      "cat": "Other"
+    },
+    {
+      "id": "group_1907_1907",
+      "gids": [
+        1907
+      ],
+      "label": "Group 1907",
+      "cat": "Other"
+    },
+    {
+      "id": "group_1908_1908",
+      "gids": [
+        1908
+      ],
+      "label": "Group 1908",
+      "cat": "Other"
+    },
+    {
+      "id": "group_1910_1910",
+      "gids": [
+        1910
+      ],
+      "label": "Group 1910",
+      "cat": "Other"
+    },
+    {
+      "id": "guidance_objectives_4713",
+      "gids": [
+        4713
+      ],
+      "label": "Guidance Objectives",
+      "cat": "Other"
+    },
+    {
+      "id": "guided_bomb_1548",
+      "gids": [
+        1548
+      ],
+      "label": "Guided Bomb",
+      "cat": "Other"
+    },
+    {
+      "id": "guided_entities_4712",
+      "gids": [
+        4712
+      ],
+      "label": "Guided Entities",
+      "cat": "Other"
+    },
+    {
+      "id": "hedbergite_454",
+      "gids": [
+        454
+      ],
+      "label": "Hedbergite",
+      "cat": "Other"
+    },
+    {
+      "id": "hemorphite_455",
+      "gids": [
+        455
+      ],
+      "label": "Hemorphite",
+      "cat": "Other"
+    },
+    {
+      "id": "hezorime_4758",
+      "gids": [
+        4758
+      ],
+      "label": "Hezorime",
+      "cat": "Other"
+    },
+    {
+      "id": "hidden_zenith_amarr_capital_1804",
+      "gids": [
+        1804
+      ],
+      "label": "Hidden Zenith Amarr Capital",
+      "cat": "Other"
+    },
+    {
+      "id": "hidden_zenith_caldari_capital_1805",
+      "gids": [
+        1805
+      ],
+      "label": "Hidden Zenith Caldari Capital",
+      "cat": "Other"
+    },
+    {
+      "id": "hidden_zenith_gallente_capital_1806",
+      "gids": [
+        1806
+      ],
+      "label": "Hidden Zenith Gallente Capital",
+      "cat": "Other"
+    },
+    {
+      "id": "hidden_zenith_minmatar_capital_1807",
+      "gids": [
+        1807
+      ],
+      "label": "Hidden Zenith Minmatar Capital",
+      "cat": "Other"
+    },
+    {
+      "id": "homefront_operations_noncombatant_4771",
+      "gids": [
+        4771
+      ],
+      "label": "Homefront Operations Noncombatant",
+      "cat": "Other"
+    },
+    {
+      "id": "ice_465",
+      "gids": [
+        465
+      ],
+      "label": "Ice",
+      "cat": "Other"
+    },
+    {
+      "id": "ice_belt_4935",
+      "gids": [
+        4935
+      ],
+      "label": "Ice Belt",
+      "cat": "Other"
+    },
+    {
+      "id": "industrial_support_facility_1978",
+      "gids": [
+        1978
+      ],
+      "label": "Industrial Support Facility",
+      "cat": "Other"
+    },
+    {
+      "id": "interbus_yoiul_lads_4949",
+      "gids": [
+        4949
+      ],
+      "label": "InterBus Yoiul LADs",
+      "cat": "Other"
+    },
+    {
+      "id": "irregular_unidentified_1929",
+      "gids": [
+        1929
+      ],
+      "label": "Irregular - Unidentified",
+      "cat": "Other"
+    },
+    {
+      "id": "irregular_industrial_1895",
+      "gids": [
+        1895
+      ],
+      "label": "Irregular Industrial",
+      "cat": "Other"
+    },
+    {
+      "id": "jaspet_456",
+      "gids": [
+        456
+      ],
+      "label": "Jaspet",
+      "cat": "Other"
+    },
+    {
+      "id": "jump_portal_array_707",
+      "gids": [
+        707
+      ],
+      "label": "Jump Portal Array",
+      "cat": "Other"
+    },
+    {
+      "id": "kernite_457",
+      "gids": [
+        457
+      ],
+      "label": "Kernite",
+      "cat": "Other"
+    },
+    {
+      "id": "kylixium_4755",
+      "gids": [
+        4755
+      ],
+      "label": "Kylixium",
+      "cat": "Other"
+    },
+    {
+      "id": "laboratory_413",
+      "gids": [
+        413
+      ],
+      "label": "Laboratory",
+      "cat": "Other"
+    },
+    {
+      "id": "laboratory_1405",
+      "gids": [
+        1405
+      ],
+      "label": "Laboratory",
+      "cat": "Other"
+    },
+    {
+      "id": "landmark_318",
+      "gids": [
+        318
+      ],
+      "label": "Landmark",
+      "cat": "Other"
+    },
+    {
+      "id": "large_collidable_object_226",
+      "gids": [
+        226
+      ],
+      "label": "Large Collidable Object",
+      "cat": "Other"
+    },
+    {
+      "id": "large_collidable_ship_784",
+      "gids": [
+        784
+      ],
+      "label": "Large Collidable Ship",
+      "cat": "Other"
+    },
+    {
+      "id": "locators_1973",
+      "gids": [
+        1973
+      ],
+      "label": "Locators",
+      "cat": "Other"
+    },
+    {
+      "id": "logo_display_monument_4100",
+      "gids": [
+        4100
+      ],
+      "label": "Logo Display Monument",
+      "cat": "Other"
+    },
+    {
+      "id": "massiveenvironments_1882",
+      "gids": [
+        1882
+      ],
+      "label": "MassiveEnvironments",
+      "cat": "Other"
+    },
+    {
+      "id": "mercenary_bases_1081",
+      "gids": [
+        1081
+      ],
+      "label": "Mercenary Bases",
+      "cat": "Other"
+    },
+    {
+      "id": "mercenary_den_4810",
+      "gids": [
+        4810
+      ],
+      "label": "Mercenary Den",
+      "cat": "Other"
+    },
+    {
+      "id": "mercoxit_468",
+      "gids": [
+        468
+      ],
+      "label": "Mercoxit",
+      "cat": "Other"
+    },
+    {
+      "id": "minor_threat_286",
+      "gids": [
+        286
+      ],
+      "label": "Minor Threat",
+      "cat": "Other"
+    },
+    {
+      "id": "mordunium_4513",
+      "gids": [
+        4513
+      ],
+      "label": "Mordunium",
+      "cat": "Other"
+    },
+    {
+      "id": "mutanite_4568",
+      "gids": [
+        4568
+      ],
+      "label": "Mutanite",
+      "cat": "Other"
+    },
+    {
+      "id": "nocxite_4756",
+      "gids": [
+        4756
+      ],
+      "label": "Nocxite",
+      "cat": "Other"
+    },
+    {
+      "id": "observatory_array_1407",
+      "gids": [
+        1407
+      ],
+      "label": "Observatory Array",
+      "cat": "Other"
+    },
+    {
+      "id": "omber_469",
+      "gids": [
+        469
+      ],
+      "label": "Omber",
+      "cat": "Other"
+    },
+    {
+      "id": "orbital_construction_platform_1106",
+      "gids": [
+        1106
+      ],
+      "label": "Orbital Construction Platform",
+      "cat": "Other"
+    },
+    {
+      "id": "ore_deposit_4938",
+      "gids": [
+        4938
+      ],
+      "label": "Ore Deposit",
+      "cat": "Other"
+    },
+    {
+      "id": "personal_hangar_1212",
+      "gids": [
+        1212
+      ],
+      "label": "Personal Hangar",
+      "cat": "Other"
+    },
+    {
+      "id": "phased_asteroid_4918",
+      "gids": [
+        4918
+      ],
+      "label": "Phased Asteroid",
+      "cat": "Other"
+    },
+    {
+      "id": "phased_asteroid_field_4936",
+      "gids": [
+        4936
+      ],
+      "label": "Phased Asteroid Field",
+      "cat": "Other"
+    },
+    {
+      "id": "plagioclase_458",
+      "gids": [
+        458
+      ],
+      "label": "Plagioclase",
+      "cat": "Other"
+    },
+    {
+      "id": "precursor_cache_2009",
+      "gids": [
+        2009
+      ],
+      "label": "Precursor Cache",
+      "cat": "Other"
+    },
+    {
+      "id": "protective_sentry_gun_180",
+      "gids": [
+        180
+      ],
+      "label": "Protective Sentry Gun",
+      "cat": "Other"
+    },
+    {
+      "id": "prototype_exploration_ship_1022",
+      "gids": [
+        1022
+      ],
+      "label": "Prototype Exploration Ship",
+      "cat": "Other"
+    },
+    {
+      "id": "pyroxeres_459",
+      "gids": [
+        459
+      ],
+      "label": "Pyroxeres",
+      "cat": "Other"
+    },
+    {
+      "id": "rakovene_4030",
+      "gids": [
+        4030
+      ],
+      "label": "Rakovene",
+      "cat": "Other"
+    },
+    {
+      "id": "rare_asteroid_field_4937",
+      "gids": [
+        4937
+      ],
+      "label": "Rare Asteroid Field",
+      "cat": "Other"
+    },
+    {
+      "id": "reprocessing_array_311",
+      "gids": [
+        311
+      ],
+      "label": "Reprocessing Array",
+      "cat": "Other"
+    },
+    {
+      "id": "rift_4719",
+      "gids": [
+        4719
+      ],
+      "label": "Rift",
+      "cat": "Other"
+    },
+    {
+      "id": "satellite_1165",
+      "gids": [
+        1165
+      ],
+      "label": "Satellite",
+      "cat": "Other"
+    },
+    {
+      "id": "scalable_decorative_asteroid_4094",
+      "gids": [
+        4094
+      ],
+      "label": "Scalable Decorative Asteroid",
+      "cat": "Other"
+    },
+    {
+      "id": "scalable_non_interactable_object_4579",
+      "gids": [
+        4579
+      ],
+      "label": "Scalable Non-Interactable Object",
+      "cat": "Other"
+    },
+    {
+      "id": "scanner_array_709",
+      "gids": [
+        709
+      ],
+      "label": "Scanner Array",
+      "cat": "Other"
+    },
+    {
+      "id": "scordite_460",
+      "gids": [
+        460
+      ],
+      "label": "Scordite",
+      "cat": "Other"
+    },
+    {
+      "id": "seeker_scouts_1768",
+      "gids": [
+        1768
+      ],
+      "label": "Seeker Scouts",
+      "cat": "Other"
+    },
+    {
+      "id": "sensor_dampening_battery_440",
+      "gids": [
+        440
+      ],
+      "label": "Sensor Dampening Battery",
+      "cat": "Other"
+    },
+    {
+      "id": "sentry_gun_99",
+      "gids": [
+        99
+      ],
+      "label": "Sentry Gun",
+      "cat": "Other"
+    },
+    {
+      "id": "shield_hardening_array_444",
+      "gids": [
+        444
+      ],
+      "label": "Shield Hardening Array",
+      "cat": "Other"
+    },
+    {
+      "id": "ship_maintenance_array_363",
+      "gids": [
+        363
+      ],
+      "label": "Ship Maintenance Array",
+      "cat": "Other"
+    },
+    {
+      "id": "silo_404",
+      "gids": [
+        404
+      ],
+      "label": "Silo",
+      "cat": "Other"
+    },
+    {
+      "id": "skyhook_4736",
+      "gids": [
+        4736
+      ],
+      "label": "Skyhook",
+      "cat": "Other"
+    },
+    {
+      "id": "skyhook_reagent_silo_4745",
+      "gids": [
+        4745
+      ],
+      "label": "Skyhook Reagent Silo",
+      "cat": "Other"
+    },
+    {
+      "id": "special_edition_yachts_5087",
+      "gids": [
+        5087
+      ],
+      "label": "Special Edition Yachts",
+      "cat": "Other"
+    },
+    {
+      "id": "spodumain_461",
+      "gids": [
+        461
+      ],
+      "label": "Spodumain",
+      "cat": "Other"
+    },
+    {
+      "id": "stargate_10",
+      "gids": [
+        10
+      ],
+      "label": "Stargate",
+      "cat": "Other"
+    },
+    {
+      "id": "stasis_webification_battery_441",
+      "gids": [
+        441
+      ],
+      "label": "Stasis Webification Battery",
+      "cat": "Other"
+    },
+    {
+      "id": "stealth_bomber_834",
+      "gids": [
+        834
+      ],
+      "label": "Stealth Bomber",
+      "cat": "Other"
+    },
+    {
+      "id": "talassonite_4029",
+      "gids": [
+        4029
+      ],
+      "label": "Talassonite",
+      "cat": "Other"
+    },
+    {
+      "id": "temporal_resources_2022",
+      "gids": [
+        2022
+      ],
+      "label": "Temporal Resources",
+      "cat": "Other"
+    },
+    {
+      "id": "test_orbitals_1073",
+      "gids": [
+        1073
+      ],
+      "label": "Test Orbitals",
+      "cat": "Other"
+    },
+    {
+      "id": "tracking_array_473",
+      "gids": [
+        473
+      ],
+      "label": "Tracking Array",
+      "cat": "Other"
+    },
+    {
+      "id": "triglavian_entities_4028",
+      "gids": [
+        4028
+      ],
+      "label": "Triglavian Entities",
+      "cat": "Other"
+    },
+    {
+      "id": "triglavian_support_pylons_1981",
+      "gids": [
+        1981
+      ],
+      "label": "Triglavian Support Pylons",
+      "cat": "Other"
+    },
+    {
+      "id": "tyranite_4857",
+      "gids": [
+        4857
+      ],
+      "label": "Tyranite",
+      "cat": "Other"
+    },
+    {
+      "id": "ueganite_4757",
+      "gids": [
+        4757
+      ],
+      "label": "Ueganite",
+      "cat": "Other"
+    },
+    {
+      "id": "unidentified_entities_4105",
+      "gids": [
+        4105
+      ],
+      "label": "Unidentified Entities",
+      "cat": "Other"
+    },
+    {
+      "id": "unidentified_entities_ii_4130",
+      "gids": [
+        4130
+      ],
+      "label": "Unidentified Entities II",
+      "cat": "Other"
+    },
+    {
+      "id": "upwell_cyno_jammer_2016",
+      "gids": [
+        2016
+      ],
+      "label": "Upwell Cyno Jammer",
+      "cat": "Other"
+    },
+    {
+      "id": "upwell_monument_2015",
+      "gids": [
+        2015
+      ],
+      "label": "Upwell Monument",
+      "cat": "Other"
+    },
+    {
+      "id": "vanguard_entities_4909",
+      "gids": [
+        4909
+      ],
+      "label": "Vanguard Entities",
+      "cat": "Other"
+    },
+    {
+      "id": "veldspar_462",
+      "gids": [
+        462
+      ],
+      "label": "Veldspar",
+      "cat": "Other"
+    },
+    {
+      "id": "warp_gate_366",
+      "gids": [
+        366
+      ],
+      "label": "Warp Gate",
+      "cat": "Other"
+    },
+    {
+      "id": "warp_scrambling_battery_443",
+      "gids": [
+        443
+      ],
+      "label": "Warp Scrambling Battery",
+      "cat": "Other"
+    },
+    {
+      "id": "ytirium_4514",
+      "gids": [
+        4514
+      ],
+      "label": "Ytirium",
+      "cat": "Other"
+    },
+    {
+      "id": "zombie_entities_934",
+      "gids": [
+        934
+      ],
+      "label": "Zombie Entities",
+      "cat": "Other"
+    },
+    {
+      "id": "industrial_command_1896",
+      "gids": [
+        1896
+      ],
+      "label": "♦ Industrial Command",
+      "cat": "Other"
+    },
+    {
+      "id": "stronghold_1924",
+      "gids": [
+        1924
+      ],
+      "label": "♦ Stronghold",
+      "cat": "Other"
+    }
+  ]
+}

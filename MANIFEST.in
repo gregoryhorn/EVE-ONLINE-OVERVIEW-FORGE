@@ -1,0 +1,12 @@
+include README.md
+include AGENTS.md
+include GUI-PLAN.md
+include GAP-CHECK-PLAN.md
+include Overview-research-report.md
+include requirements.txt
+include Examples/standard_complete_overview.yaml
+recursive-include docs/screenshots *.png
+recursive-include scripts *.py
+recursive-include src/eve_overview_manager/gui/static *.html *.css *.js *.json
+recursive-include src/eve_overview_manager/templates *.yaml
+recursive-include tests *.py

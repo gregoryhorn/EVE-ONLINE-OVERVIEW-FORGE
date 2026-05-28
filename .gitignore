@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local runtime state
+.tmp/
+.playwright-mcp/
+qa-artifacts/
+*.log
+profiles-*-qa.png
+profiles-package-smoke.png
+GUI Example images/
+Overview Example Images/
+
+# EVE local profile files are opaque/private and must not be committed.
+core_user_*.dat
+core_char_*.dat
+prefs.ini
+settings_*.bak_*/
+*.dat.bak
+
+# Local generated exports/backups/snapshots
+backups/
+snapshots/
+*.eveoverview.local.json
+
+# Public releases should include only the maintained standard overview template.
+Examples/*
+!Examples/
+!Examples/standard_complete_overview.yaml
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
