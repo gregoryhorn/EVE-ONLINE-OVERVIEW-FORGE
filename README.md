@@ -54,7 +54,6 @@ Any future write operation that targets an EVE folder or profile folder must sup
 | 1 | Project scaffold and docs | Done |
 | 2 | YAML import/export/roundtrip foundation | Done |
 | 3 | Real EVE YAML fixture support | Done |
-| 4 | Tehl-style community YAML fixture support | Done |
 | 5 | Canonical JSON import/export | Done |
 | 6 | Structured validation engine | Done |
 | 7 | Offline state dictionary and optional group validator | Done |
@@ -92,12 +91,10 @@ Any future write operation that targets an EVE folder or profile folder must sup
 | 21q | GUI editor correctness fixes for presets, appearance, and columns | Done |
 | 21r | GUI - Character-centric profile overwrite planning | Done |
 | 21s | GUI stabilization: preview refresh, preset group visibility, tab cap, bracket toggle removal | Done |
-| 21t | Community overview YAML sample fixtures | Done |
 | 21u | GUI - Appearance state labels, in-game palette, default tag colors, split blink rendering | Done |
 | 22 | Optional modular overview generator foundation | Done |
 | 23 | Legacy XML import path | Closed / deferred |
 | 24 | GUI import/export preference helpers, unique filename helper, and API routes | Done |
-| 25 | Community overview research and GUI gap-check plan | Done |
 | 26 | GUI workflow IA: Tabs hub and Advanced tools | Done |
 | 27 | Profile package export, inspect, and import dry-run planning | Done |
 
@@ -176,7 +173,7 @@ The GUI exists as a local FastAPI/plain HTML app, with several editor screens al
 - Preview sample coverage includes state variety for ships, drones, and structures/stations so friendly, hostile, neutral, suspect, and corporation/fleet filters can be checked across different entity types.
 - Preview catalog includes Sun, Planet, Moon, Asteroid Belt, Encounter Surveillance System, and Abyssal Filament rows.
 - The Presets group checkbox catalog includes a `Drones & Fighters` category for common drone and fighter groups.
-- Presets now loads a source-controlled standard group catalog from `static/data/group_catalog.json`. The catalog is generated from bundled community samples plus common SDE groups and is searchable in the GUI.
+- Presets now loads a source-controlled standard group catalog from `static/data/group_catalog.json`. The catalog includes common SDE groups and is searchable in the GUI.
 - Columns now autosave checkbox and ordering changes; rows also have up/down controls in addition to drag-and-drop, and preview columns refresh from the backend after each change.
 - Appearance supports per-state color tag and background colors, autosaves changes, and preview blink flashes enabled styling on/off roughly twice per second.
 - Appearance color selectors are limited to the 12-color in-game palette: dark turquoise, purple, dark blue, turquoise, yellow, blue, violet, green, orange, black, white, and red.
@@ -286,7 +283,7 @@ Official CCP SDE downloads use the latest JSONL/YAML archive URLs documented at 
 
 YAML is the official EVE import/export format. Canonical JSON is the app-native format intended for future GUI editing, diffing, and project persistence.
 Workspace project JSON references the canonical overview document, snapshot root, optional SDE archive/group index, and optional profile roots without embedding or modifying EVE profile files.
-The generator spec is intentionally small in this phase: tabs, presets, columns, labels, appearance, misc settings, and unknown passthrough fields. It is a foundation for later Tehl-style modular source layouts, not a complete rules engine.
+The generator spec is intentionally small in this phase: tabs, presets, columns, labels, appearance, misc settings, and unknown passthrough fields. It is a foundation for later modular source layouts, not a complete rules engine.
 
 Overview snapshots store immutable canonical JSON plus a checksum manifest for local rollback/version history.
 Snapshot restore verifies the checksum first and writes to a user-chosen JSON or YAML output path. It does not overwrite existing files unless `--overwrite` is provided.

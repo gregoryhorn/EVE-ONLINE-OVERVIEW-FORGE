@@ -18,7 +18,6 @@
 - GUI import/export should default to the current user's `Documents\EVE\Overview`, remember user changes, and avoid overwriting existing files by generating unique names.
 - Current overview mode defaults to 20 tabs. Legacy compatibility mode remains capped at 5 tabs.
 - Treat `_BracketFilterShowAll` and `DefaultPreset_<digits>` as EVE built-in/default preset references.
-- Keep `Examples/tehl_style_overview.yaml` as a community-generator fixture for Tehl-style YAML behavior.
 - Keep generator behavior small and explicit; do not turn it into a broad DSL without approval.
 - Treat `core_user_*.dat` and `core_char_*.dat` as opaque files. Do not parse or edit them at field level.
 - Character names may be resolved from `core_char_<id>.dat` filenames only when explicitly requested; normal profile scans must remain offline.
