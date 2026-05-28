@@ -11,6 +11,23 @@ The project has two separate workflows:
 
 ![Profiles screen](docs/screenshots/profiles.png)
 
+## Run The App GUI
+
+For most users, use the portable release from the GitHub Releases page:
+
+1. Download `overview-forge-portable.zip`.
+2. Extract the zip to a normal folder.
+3. Double-click `run-gui.bat`.
+4. A browser window should open automatically at `http://localhost:7477`.
+
+If the browser does not open, keep the command window running and manually open:
+
+```text
+http://localhost:7477
+```
+
+The first run creates a local `.venv` folder inside the extracted app folder and installs the required Python packages there. The app is local and runs in your browser; it is not an EVE client plugin.
+
 ## Custom Versions
 
 If you want a customized version of this app, I can make the changes you want for a small ISK donation in game. Contact `Mizz Betty` in EVE Online.
